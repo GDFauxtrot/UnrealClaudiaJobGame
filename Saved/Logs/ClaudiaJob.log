@@ -1,0 +1,1495 @@
+﻿Log file open, 04/15/18 11:14:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClaudiaJob
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(564475936) SRandInit(564475936).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188485
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/SoundVisualizations/Binaries/Win64/UE4Editor-SoundVisualizations.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/FMODStudio/Binaries/Win64/UE4Editor-FMODStudio.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/FMODStudio/Binaries/Win64/UE4Editor-FMODStudioEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundVisualizations
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.15-18.14.09:184][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.15-18.14.09:184][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.15-18.14.09:199][  0]LogInit: Computer: LAPTOP-PLBLP26D
+[2018.04.15-18.14.09:199][  0]LogInit: User: Zowchi
+[2018.04.15-18.14.09:199][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.15-18.14.09:199][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.04.15-18.14.09:199][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.15-18.14.09:199][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.15-18.14.09:199][  0]LogMemory: Process Physical Memory: 272.70 MB used, 272.70 MB peak
+[2018.04.15-18.14.09:199][  0]LogMemory: Process Virtual Memory: 272.19 MB used, 272.19 MB peak
+[2018.04.15-18.14.09:199][  0]LogMemory: Physical Memory: 11784.80 MB used,  4482.80 MB free, 16267.60 MB total
+[2018.04.15-18.14.09:199][  0]LogMemory: Virtual Memory: 679.73 MB used,  4482.80 MB free, 134217728.00 MB total
+[2018.04.15-18.14.09:449][  0]LogInit: Using OS detected language (en-US).
+[2018.04.15-18.14.09:449][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.15-18.14.09:455][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.15-18.14.09:950][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.15-18.14.10:300][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.15-18.14.10:348][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.04.15-18.14.10:348][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.15-18.14.10:360][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.04.15-18.14.10:360][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.15-18.14.10:362][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.15-18.14.10:362][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.15-18.14.10:362][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.15-18.14.10:370][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.15-18.14.10:371][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.15-18.14.10:371][  0]LogWindows: EnumDisplayDevices:
+[2018.04.15-18.14.10:371][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.04.15-18.14.10:371][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.15-18.14.10:371][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.15-18.14.10:372][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.04.15-18.14.10:373][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.15-18.14.10:373][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.04.15-18.14.10:373][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.15-18.14.10:373][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.15-18.14.10:373][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.04.15-18.14.10:407][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.15-18.14.10:424][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.15-18.14.10:427][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../Unreal/ClaudiaJob/Intermediate/Shaders/WorkingDirectory/16500/).
+[2018.04.15-18.14.10:427][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Zowchi/AppData/Local/Temp/UnrealShaderWorkingDir/F0F324F3419B88D33A51588CE5A74CB1/'.
+[2018.04.15-18.14.10:427][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.15-18.14.11:589][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.15-18.14.11:662][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.15-18.14.11:732][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.15-18.14.11:810][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.15-18.14.11:884][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.15-18.14.11:959][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.15-18.14.12:039][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.15-18.14.12:109][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.15-18.14.12:172][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.15-18.14.12:249][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.15-18.14.12:323][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.15-18.14.12:395][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.15-18.14.12:466][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.15-18.14.12:539][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.15-18.14.12:685][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.15-18.14.12:686][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.15-18.14.12:759][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.15-18.14.12:814][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.15-18.14.12:932][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.15-18.14.12:969][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.15-18.14.13:037][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.15-18.14.13:114][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.15-18.14.13:183][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.15-18.14.13:257][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.15-18.14.13:257][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.15-18.14.13:929][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.15-18.14.14:014][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Zowchi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.15-18.14.14:014][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Zowchi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.15-18.14.14:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/ClaudiaJob/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.15-18.14.14:014][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.15-18.14.14:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/ClaudiaJob/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.15-18.14.14:014][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.15-18.14.14:033][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.15-18.14.14:045][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Zowchi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.15-18.14.14:057][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.15-18.14.14:057][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.15-18.14.14:058][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.15-18.14.14:058][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.15-18.14.14:515][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.15-18.14.14:975][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.15-18.14.15:035][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.15-18.14.15:035][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.15-18.14.15:035][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.15-18.14.15:035][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.15-18.14.15:035][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.15-18.14.15:069][  0]LogNetVersion: ClaudiaJob , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1314660921)
+[2018.04.15-18.14.15:289][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.04.15-18.14.15:923][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.083976 seconds
+[2018.04.15-18.14.15:928][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.15-18.14.15:928][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.15-18.14.15:928][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.15-18.14.16:014][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.15-18.14.19:671][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.15-18.14.19:726][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.15-18.14.19:864][  0]LogFMOD: FFMODStudioModule startup
+[2018.04.15-18.14.19:864][  0]LogFMOD:  Lib path = '../../../Engine/Plugins/Runtime/FMODStudio/Binaries'
+[2018.04.15-18.14.19:864][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/Runtime/FMODStudio/Binaries/Win64/fmodL64.dll
+[2018.04.15-18.14.19:872][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/Runtime/FMODStudio/Binaries/Win64/fmodstudioL64.dll
+[2018.04.15-18.14.19:907][  0]LogFMOD: Loading strings bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank
+[2018.04.15-18.14.19:908][  0]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.14.19:908][  0]LogFMOD: Warning: Failed to load strings bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank
+[2018.04.15-18.14.19:911][  0]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.14.19:911][  0]LogFMOD: System sample rate = 48000
+[2018.04.15-18.14.19:911][  0]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.14.19:926][  0]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.14.19:926][  0]LogFMOD: System sample rate = 48000
+[2018.04.15-18.14.19:926][  0]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.14.20:835][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.15-18.14.21:439][  0]SourceControl: Source control is disabled
+[2018.04.15-18.14.21:439][  0]SourceControl: Source control is disabled
+[2018.04.15-18.14.21:520][  0]SourceControl: Source control is disabled
+[2018.04.15-18.14.21:605][  0]SourceControl: Source control is disabled
+[2018.04.15-18.14.22:767][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.15-18.14.23:085][  0]LogFMOD: FFMODStudioEditorModule startup
+[2018.04.15-18.14.23:266][  0]LogOcInput: OculusInput pre-init called
+[2018.04.15-18.14.23:756][  0]LogEngine: Initializing Engine...
+[2018.04.15-18.14.23:758][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.15-18.14.24:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.15-18.14.24:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.15-18.14.24:199][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.15-18.14.24:207][  0]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.14.24:214][  0]LogInit: FAudioDevice initialized.
+[2018.04.15-18.14.24:361][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Zowchi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.15-18.14.24:375][  0]LogInit: Texture streaming: Enabled
+[2018.04.15-18.14.24:517][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.15-18.14.24:708][  0]LogInit: Transaction tracking system initialized
+[2018.04.15-18.14.25:166][  0]BlueprintLog: New page: Editor Load
+[2018.04.15-18.14.26:470][  0]LocalizationService: Localization service is disabled
+[2018.04.15-18.14.27:236][  0]LogLinker: Warning: Can't find file '/Game/RollingBP/RollingOverview'
+[2018.04.15-18.14.27:236][  0]LogLinker: Warning: Can't find file '/Game/RollingBP/RollingOverview'
+[2018.04.15-18.14.27:236][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/RollingBP/RollingOverview.RollingOverview_C'
+[2018.04.15-18.14.27:549][  0]LogConsoleResponse: Display: 
+[2018.04.15-18.14.27:799][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.15-18.14.27:799][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.15-18.14.27:800][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.15-18.14.28:279][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal/ClaudiaJob/Content/' took 0.01s
+[2018.04.15-18.14.29:522][  0]SourceControl: Source control is disabled
+[2018.04.15-18.14.29:522][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.15-18.14.29:523][  0]LightingResults: New page: Lighting Build
+[2018.04.15-18.14.29:584][  0]MapCheck: New page: Map Check
+[2018.04.15-18.14.29:584][  0]LightingResults: New page: Lighting Build
+[2018.04.15-18.14.30:373][  0]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.14.30:415][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.15-18.14.30:429][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.15-18.14.30:500][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.326ms to complete.
+[2018.04.15-18.14.30:500][  0]LogFileHelpers: Loading map 'MainLevel' took 0.978
+[2018.04.15-18.14.30:657][  0]LogCollectionManager: Loaded 0 collections in 0.001942 seconds
+[2018.04.15-18.14.30:760][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal/ClaudiaJob/Saved/Collections/' took 0.01s
+[2018.04.15-18.14.30:760][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal/ClaudiaJob/Content/Developers/Zowchi/Collections/' took 0.01s
+[2018.04.15-18.14.30:760][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal/ClaudiaJob/Content/Collections/' took 0.01s
+[2018.04.15-18.14.30:760][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.15-18.14.30:770][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2381 classes and 529 folders.
+[2018.04.15-18.14.30:866][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.15-18.14.30:918][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.15-18.14.31:041][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.15-18.14.31:129][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.15-18.14.31:135][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.15-18.14.31:137][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.15-18.14.31:145][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.04.15-18.14.31:207][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-18.14.31:358][  0]LogRenderer: Reallocating scene render targets to support 1060x772 Format 9 NumSamples 1 (Frame:1).
+[2018.04.15-18.14.31:557][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.15-18.14.31:557][  0]LogLoad: (Engine Initialization) Total time: 25.54 seconds
+[2018.04.15-18.14.31:558][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.15-18.14.31:558][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.15-18.14.31:605][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.04.15-18.14.31:670][  1]LogAssetRegistry: Asset discovery search completed in 16.4029 seconds
+[2018.04.15-18.14.31:675][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.15-18.14.31:675][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000299 seconds (updated 0 objects)
+[2018.04.15-18.14.32:606][ 44]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-18.14.40:739][525]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-18.14.41:146][525]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.15-18.14.42:723][525]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.15-18.14.44:676][609]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.15-18.14.49:234][872]LogBlueprint: Warning: [BlueInfoText] 'CurrentlyVisibleTriggerText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.14.49:235][872]LogBlueprint: Warning: [BlueInfoText] 'DisplayedText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.14.49:235][872]LogBlueprint: Warning: [BlueInfoText] 'DisplayedText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.14.49:235][872]LogBlueprint: Warning: [BlueInfoText] 'DisplayedText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.14.49:235][872]LogBlueprint: Warning: [BlueInfoText] 'DisplayedText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.15.35:988][595]LogBlueprint: Warning: [BlueInfoText] 'CurrentlyVisibleTriggerText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.15.35:988][595]LogBlueprint: Warning: [BlueInfoText] 'DisplayedText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.15.35:989][595]LogBlueprint: Warning: [BlueInfoText] 'DisplayedText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.15.35:989][595]LogBlueprint: Warning: [BlueInfoText] 'DisplayedText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.15.35:989][595]LogBlueprint: Warning: [BlueInfoText] 'DisplayedText' variable not found. Base class was probably changed. /Game/BlueInfoText.BlueInfoText
+[2018.04.15-18.16.07:407][387]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.15-18.21.47:353][644]BlueprintLog: New page: Compile BlueInfoText
+[2018.04.15-18.21.48:085][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueInfoText" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset" SILENT=true
+[2018.04.15-18.21.48:154][681]LogSavePackage: Save=49.00ms
+[2018.04.15-18.21.48:154][681]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueInfoTextF3AF1354457DE58A145D7C8F1EF1848B.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset'
+[2018.04.15-18.21.48:156][681]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset
+[2018.04.15-18.24.19:356][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-18.24.20:000][168]LogSavePackage: Save=602.64ms
+[2018.04.15-18.24.20:001][168]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel4E249D1C4BAAD18EB91B739CDBDA2BC1.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-18.24.20:005][168]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-18.24.20:048][168]LogFileHelpers: Saving map 'MainLevel' took 0.763
+[2018.04.15-18.25.08:230][397]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-18.25.11:173][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-18.25.11:809][502]LogSavePackage: Save=603.19ms
+[2018.04.15-18.25.11:809][502]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel21086A43472A951E8545F1BBFFC924A3.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-18.25.11:814][502]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-18.25.11:860][502]LogFileHelpers: Saving map 'MainLevel' took 0.755
+[2018.04.15-18.25.11:878][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-18.25.12:253][502]LogSavePackage: Save=358.11ms
+[2018.04.15-18.25.12:253][502]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnF6126451495E00847429E1B80363C869.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-18.25.12:256][502]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-18.25.18:534][830]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.25.18:644][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.25.18:671][830]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.25.18:672][830]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.25.18:673][830]LogFMOD: System sample rate = 48000
+[2018.04.15-18.25.18:673][830]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.25.18:680][830]LogFMOD: Loading Banks
+[2018.04.15-18.25.18:722][830]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.25.18:722][830]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.25.18:722][830]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.25.18:722][830]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.25.18:723][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.25.18:723][830]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:25:18 AM)
+[2018.04.15-18.25.18:723][830]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.25.18:758][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033973s)
+[2018.04.15-18.25.18:758][830]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.25.18:759][830]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2018.04.15-18.25.18:759][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.035744s)
+[2018.04.15-18.25.18:789][830]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.25.18:796][830]LogInit: FAudioDevice initialized.
+[2018.04.15-18.25.18:846][830]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.25.18:858][830]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.25.18
+[2018.04.15-18.25.18:858][830]LogWorld: Bringing up level for play took: 0.008611
+[2018.04.15-18.25.18:922][830]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.15-18.25.18:924][830]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.61
+[2018.04.15-18.25.18:924][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.25.20:284][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.25.20:457][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.25.29:774][342]BlueprintLog: New page: Compile BlueInfoText
+[2018.04.15-18.25.30:585][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueInfoText" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset" SILENT=true
+[2018.04.15-18.25.30:644][380]LogSavePackage: Save=47.49ms
+[2018.04.15-18.25.30:644][380]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueInfoTextA6FE7F29470CFEEFA514E48164615C4C.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset'
+[2018.04.15-18.25.30:647][380]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset
+[2018.04.15-18.25.31:722][432]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.25.31:763][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.25.31:791][432]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.25.31:794][432]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.25.31:794][432]LogFMOD: System sample rate = 48000
+[2018.04.15-18.25.31:795][432]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.25.31:803][432]LogFMOD: Loading Banks
+[2018.04.15-18.25.31:842][432]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.25.31:842][432]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.25.31:842][432]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.25.31:843][432]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.25.31:844][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.25.31:844][432]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:25:31 AM)
+[2018.04.15-18.25.31:844][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.25.31:880][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035370s)
+[2018.04.15-18.25.31:880][432]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.25.31:881][432]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.04.15-18.25.31:881][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.036825s)
+[2018.04.15-18.25.31:909][432]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.25.31:916][432]LogInit: FAudioDevice initialized.
+[2018.04.15-18.25.31:953][432]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.25.31:965][432]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.25.31
+[2018.04.15-18.25.31:966][432]LogWorld: Bringing up level for play took: 0.009609
+[2018.04.15-18.25.31:967][432]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.347
+[2018.04.15-18.25.31:968][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.25.52:528][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.25.52:691][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.27.04:194][695]BlueprintLog: New page: Compile BlueInfoText
+[2018.04.15-18.27.04:974][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueInfoText" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset" SILENT=true
+[2018.04.15-18.27.05:044][719]LogSavePackage: Save=53.57ms
+[2018.04.15-18.27.05:044][719]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueInfoTextAEAB493C498F4E2A358FFC9A82A3937A.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset'
+[2018.04.15-18.27.05:047][719]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset
+[2018.04.15-18.27.06:798][785]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.27.06:829][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.27.06:871][785]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.27.06:874][785]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.27.06:874][785]LogFMOD: System sample rate = 48000
+[2018.04.15-18.27.06:874][785]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.27.06:884][785]LogFMOD: Loading Banks
+[2018.04.15-18.27.06:923][785]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.27.06:923][785]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.27.06:923][785]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.27.06:923][785]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.27.06:924][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.27.06:924][785]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:27:06 AM)
+[2018.04.15-18.27.06:924][785]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.27.06:960][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035423s)
+[2018.04.15-18.27.06:960][785]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.27.06:961][785]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2018.04.15-18.27.06:962][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.038112s)
+[2018.04.15-18.27.06:989][785]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.27.06:996][785]LogInit: FAudioDevice initialized.
+[2018.04.15-18.27.07:032][785]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.27.07:042][785]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.27.07
+[2018.04.15-18.27.07:044][785]LogWorld: Bringing up level for play took: 0.008091
+[2018.04.15-18.27.07:046][785]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.732
+[2018.04.15-18.27.07:046][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.28.57:563][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.28.57:737][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.30.35:878][713]Cmd: ACTOR SELECT ALL
+[2018.04.15-18.35.02:632][340]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.15-18.36.07:549][862]BlueprintLog: New page: Compile BlueInfoText
+[2018.04.15-18.36.08:245][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueInfoText" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset" SILENT=true
+[2018.04.15-18.36.08:311][885]LogSavePackage: Save=49.26ms
+[2018.04.15-18.36.08:311][885]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueInfoTextF1EF47C34D3F014107A95185ED472738.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset'
+[2018.04.15-18.36.08:314][885]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset
+[2018.04.15-18.36.24:781][648]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.36.24:816][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.36.24:840][648]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.36.24:843][648]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.36.24:843][648]LogFMOD: System sample rate = 48000
+[2018.04.15-18.36.24:843][648]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.36.24:853][648]LogFMOD: Loading Banks
+[2018.04.15-18.36.24:890][648]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.36.24:891][648]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.36.24:891][648]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.36.24:891][648]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.36.24:891][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.36.24:891][648]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:36:24 AM)
+[2018.04.15-18.36.24:892][648]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.36.24:925][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033249s)
+[2018.04.15-18.36.24:926][648]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.36.24:926][648]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2018.04.15-18.36.24:926][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.034613s)
+[2018.04.15-18.36.24:956][648]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.36.24:961][648]LogInit: FAudioDevice initialized.
+[2018.04.15-18.36.25:008][648]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.36.25:020][648]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.36.25
+[2018.04.15-18.36.25:021][648]LogWorld: Bringing up level for play took: 0.007497
+[2018.04.15-18.36.25:023][648]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.71
+[2018.04.15-18.36.25:024][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.37.18:888][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.37.19:093][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.39.08:849][587]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.39.08:882][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.39.08:920][587]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.39.08:922][587]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.39.08:923][587]LogFMOD: System sample rate = 48000
+[2018.04.15-18.39.08:923][587]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.39.08:930][587]LogFMOD: Loading Banks
+[2018.04.15-18.39.08:970][587]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.39.08:970][587]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.39.08:971][587]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.39.08:972][587]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.39.08:972][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.39.08:972][587]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:39:08 AM)
+[2018.04.15-18.39.08:972][587]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.39.09:005][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032570s)
+[2018.04.15-18.39.09:006][587]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.39.09:006][587]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2018.04.15-18.39.09:006][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.034011s)
+[2018.04.15-18.39.09:037][587]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.39.09:044][587]LogInit: FAudioDevice initialized.
+[2018.04.15-18.39.09:083][587]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.39.09:094][587]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.39.09
+[2018.04.15-18.39.09:095][587]LogWorld: Bringing up level for play took: 0.007989
+[2018.04.15-18.39.09:097][587]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.783
+[2018.04.15-18.39.09:097][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.39.30:474][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.39.30:647][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.39.33:069][588]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP)
+[2018.04.15-18.41.40:815][ 77]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-18.41.42:003][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-18.41.42:653][ 94]LogSavePackage: Save=606.93ms
+[2018.04.15-18.41.42:654][ 94]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel54F52DFA46E4C9C785729A9849E4AA86.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-18.41.42:657][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-18.41.42:700][ 94]LogFileHelpers: Saving map 'MainLevel' took 0.770
+[2018.04.15-18.41.42:718][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-18.41.43:097][ 94]LogSavePackage: Save=361.61ms
+[2018.04.15-18.41.43:097][ 94]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn3BE09B9B467867FD12591DAB94230D05.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-18.41.43:100][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-18.41.46:907][260]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.41.46:983][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.41.47:020][260]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.41.47:022][260]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.41.47:023][260]LogFMOD: System sample rate = 48000
+[2018.04.15-18.41.47:023][260]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.41.47:032][260]LogFMOD: Loading Banks
+[2018.04.15-18.41.47:070][260]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.41.47:072][260]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.41.47:072][260]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.41.47:072][260]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.41.47:073][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.41.47:073][260]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:41:47 AM)
+[2018.04.15-18.41.47:073][260]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.41.47:108][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034904s)
+[2018.04.15-18.41.47:109][260]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.41.47:110][260]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.04.15-18.41.47:110][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.036387s)
+[2018.04.15-18.41.47:140][260]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.41.47:147][260]LogInit: FAudioDevice initialized.
+[2018.04.15-18.41.47:181][260]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.41.47:194][260]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.41.47
+[2018.04.15-18.41.47:195][260]LogWorld: Bringing up level for play took: 0.007948
+[2018.04.15-18.41.47:197][260]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.883
+[2018.04.15-18.41.47:197][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.41.56:313][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.41.56:493][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.42.05:033][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.42.05:064][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.42.05:090][ 86]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.42.05:092][ 86]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.42.05:093][ 86]LogFMOD: System sample rate = 48000
+[2018.04.15-18.42.05:093][ 86]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.42.05:103][ 86]LogFMOD: Loading Banks
+[2018.04.15-18.42.05:139][ 86]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.42.05:139][ 86]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.42.05:140][ 86]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.42.05:140][ 86]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.42.05:140][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.42.05:140][ 86]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:42:05 AM)
+[2018.04.15-18.42.05:141][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.42.05:175][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034215s)
+[2018.04.15-18.42.05:176][ 86]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.42.05:176][ 86]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2018.04.15-18.42.05:176][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.035655s)
+[2018.04.15-18.42.05:208][ 86]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.42.05:216][ 86]LogInit: FAudioDevice initialized.
+[2018.04.15-18.42.05:264][ 86]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.42.05:275][ 86]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.42.05
+[2018.04.15-18.42.05:277][ 86]LogWorld: Bringing up level for play took: 0.010425
+[2018.04.15-18.42.05:279][ 86]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.965
+[2018.04.15-18.42.05:279][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.42.17:145][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.42.17:307][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.42.22:980][901]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP)
+[2018.04.15-18.42.49:772][102]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-18.42.50:869][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-18.42.51:502][115]LogSavePackage: Save=597.34ms
+[2018.04.15-18.42.51:502][115]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelCCCC924547E654D90F06E08F9CAD6BB6.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-18.42.51:505][115]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-18.42.51:547][115]LogFileHelpers: Saving map 'MainLevel' took 0.753
+[2018.04.15-18.42.51:563][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-18.42.51:938][115]LogSavePackage: Save=364.66ms
+[2018.04.15-18.42.51:938][115]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnEA17D164476A49A274EEE1AD5109EDB6.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-18.42.51:943][115]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-18.42.52:759][151]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.42.52:828][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.42.52:850][151]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.42.52:852][151]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.42.52:852][151]LogFMOD: System sample rate = 48000
+[2018.04.15-18.42.52:852][151]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.42.52:860][151]LogFMOD: Loading Banks
+[2018.04.15-18.42.52:900][151]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.42.52:901][151]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.42.52:902][151]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.42.52:902][151]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.42.52:903][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.42.52:903][151]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:42:52 AM)
+[2018.04.15-18.42.52:903][151]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.42.52:933][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029285s)
+[2018.04.15-18.42.52:934][151]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.42.52:934][151]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2018.04.15-18.42.52:935][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.031560s)
+[2018.04.15-18.42.52:965][151]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.42.52:970][151]LogInit: FAudioDevice initialized.
+[2018.04.15-18.42.53:007][151]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.42.53:017][151]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.42.53
+[2018.04.15-18.42.53:018][151]LogWorld: Bringing up level for play took: 0.007858
+[2018.04.15-18.42.53:020][151]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.706
+[2018.04.15-18.42.53:023][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.43.16:080][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.43.16:243][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.44.25:645][762]BlueprintLog: New page: Compile BlueInfoText
+[2018.04.15-18.48.06:865][764]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.48.06:912][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.48.06:940][764]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.48.06:942][764]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.48.06:942][764]LogFMOD: System sample rate = 48000
+[2018.04.15-18.48.06:942][764]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.48.06:954][764]LogFMOD: Loading Banks
+[2018.04.15-18.48.06:990][764]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.48.06:990][764]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.48.06:991][764]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.48.06:991][764]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.48.06:991][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.48.06:992][764]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:48:06 AM)
+[2018.04.15-18.48.06:992][764]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.48.07:030][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038517s)
+[2018.04.15-18.48.07:032][764]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.48.07:033][764]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2018.04.15-18.48.07:033][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.041256s)
+[2018.04.15-18.48.07:064][764]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.48.07:069][764]LogInit: FAudioDevice initialized.
+[2018.04.15-18.48.07:108][764]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.48.07:122][764]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.48.07
+[2018.04.15-18.48.07:123][764]LogWorld: Bringing up level for play took: 0.009348
+[2018.04.15-18.48.07:125][764]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.811
+[2018.04.15-18.48.07:126][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.49.35:267][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.49.35:461][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.49.49:113][819]BlueprintLog: New page: Compile BlueInfoText
+[2018.04.15-18.49.51:607][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueInfoText" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset" SILENT=true
+[2018.04.15-18.49.51:677][893]LogSavePackage: Save=50.62ms
+[2018.04.15-18.49.51:678][893]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueInfoTextF96E83D74DCE2C0219BC9FAD13175676.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset'
+[2018.04.15-18.49.51:682][893]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset
+[2018.04.15-18.51.10:997][216]BlueprintLog: New page: Compile BlueInfoText
+[2018.04.15-18.51.11:624][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueInfoText" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset" SILENT=true
+[2018.04.15-18.51.11:686][234]LogSavePackage: Save=51.66ms
+[2018.04.15-18.51.11:686][234]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueInfoText246AF1734F1A45E52D25449A29ED8A9E.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset'
+[2018.04.15-18.51.11:688][234]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueInfoText.uasset
+[2018.04.15-18.51.13:127][287]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.51.13:161][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.51.13:209][287]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.51.13:211][287]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.51.13:211][287]LogFMOD: System sample rate = 48000
+[2018.04.15-18.51.13:211][287]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.51.13:222][287]LogFMOD: Loading Banks
+[2018.04.15-18.51.13:259][287]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.51.13:259][287]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.51.13:260][287]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.51.13:260][287]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.51.13:260][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.51.13:260][287]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:51:13 AM)
+[2018.04.15-18.51.13:261][287]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.51.13:294][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032959s)
+[2018.04.15-18.51.13:295][287]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.51.13:295][287]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2018.04.15-18.51.13:295][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.034786s)
+[2018.04.15-18.51.13:328][287]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.51.13:336][287]LogInit: FAudioDevice initialized.
+[2018.04.15-18.51.13:375][287]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.51.13:388][287]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.51.13
+[2018.04.15-18.51.13:389][287]LogWorld: Bringing up level for play took: 0.010799
+[2018.04.15-18.51.13:392][287]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.078
+[2018.04.15-18.51.13:393][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.52.58:050][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.52.58:182][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.54.41:036][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.54.41:067][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.54.41:100][ 86]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.54.41:103][ 86]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.54.41:103][ 86]LogFMOD: System sample rate = 48000
+[2018.04.15-18.54.41:103][ 86]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.54.41:113][ 86]LogFMOD: Loading Banks
+[2018.04.15-18.54.41:160][ 86]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.54.41:161][ 86]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.54.41:161][ 86]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.54.41:162][ 86]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.54.41:162][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.54.41:162][ 86]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:54:41 AM)
+[2018.04.15-18.54.41:162][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.54.41:195][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032444s)
+[2018.04.15-18.54.41:196][ 86]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.54.41:196][ 86]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2018.04.15-18.54.41:197][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.034575s)
+[2018.04.15-18.54.41:231][ 86]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.54.41:237][ 86]LogInit: FAudioDevice initialized.
+[2018.04.15-18.54.41:284][ 86]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.54.41:293][ 86]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.54.41
+[2018.04.15-18.54.41:294][ 86]LogWorld: Bringing up level for play took: 0.007336
+[2018.04.15-18.54.41:296][ 86]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.982
+[2018.04.15-18.54.41:296][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.56.24:857][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.56.25:026][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.56.39:946][118]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-18.56.41:087][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-18.56.41:813][130]LogSavePackage: Save=677.14ms
+[2018.04.15-18.56.41:813][130]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel20AEBAE443A945F1B788C99B8DD6F5F0.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-18.56.41:818][130]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-18.56.41:879][130]LogFileHelpers: Saving map 'MainLevel' took 0.863
+[2018.04.15-18.56.41:894][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-18.56.42:267][130]LogSavePackage: Save=358.25ms
+[2018.04.15-18.56.42:267][130]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn13EEE720499796C9465DB99E3FDFEB45.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-18.56.42:273][130]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-18.56.47:872][214]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-18.56.47:951][214]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.56.47:990][214]LogFMOD: Creating runtime Studio System
+[2018.04.15-18.56.47:992][214]LogFMOD: Default sample rate = 48000
+[2018.04.15-18.56.47:992][214]LogFMOD: System sample rate = 48000
+[2018.04.15-18.56.47:992][214]LogFMOD: Matching system sample rate 48000
+[2018.04.15-18.56.48:000][214]LogFMOD: Loading Banks
+[2018.04.15-18.56.48:040][214]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-18.56.48:040][214]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-18.56.48:041][214]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-18.56.48:041][214]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-18.56.48:042][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-18.56.48:042][214]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 4:56:48 AM)
+[2018.04.15-18.56.48:042][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-18.56.48:075][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032386s)
+[2018.04.15-18.56.48:075][214]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-18.56.48:076][214]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.04.15-18.56.48:076][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.034009s)
+[2018.04.15-18.56.48:114][214]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-18.56.48:119][214]LogInit: FAudioDevice initialized.
+[2018.04.15-18.56.48:166][214]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-18.56.48:174][214]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-11.56.48
+[2018.04.15-18.56.48:175][214]LogWorld: Bringing up level for play took: 0.007383
+[2018.04.15-18.56.48:177][214]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.137
+[2018.04.15-18.56.48:178][214]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.58.17:871][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.58.18:056][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-18.59.53:548][627]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-18.59.54:426][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-18.59.55:058][643]LogSavePackage: Save=599.92ms
+[2018.04.15-18.59.55:059][643]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel502583424CFB29BCDB1548857D2C6151.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-18.59.55:063][643]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-18.59.55:109][643]LogFileHelpers: Saving map 'MainLevel' took 0.755
+[2018.04.15-18.59.55:113][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-18.59.55:286][643]LogSavePackage: Save=153.76ms
+[2018.04.15-18.59.55:286][643]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode530F8B2347F4A9A12A15938EC5721978.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-18.59.55:290][643]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-19.00.55:777][984]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-19.00.56:563][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.00.57:197][999]LogSavePackage: Save=598.72ms
+[2018.04.15-19.00.57:197][999]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel4A631FCC425D8B925AA53ABBD484EA07.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.00.57:202][999]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.00.57:244][999]LogFileHelpers: Saving map 'MainLevel' took 0.750
+[2018.04.15-19.00.57:247][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-19.00.57:426][999]LogSavePackage: Save=168.83ms
+[2018.04.15-19.00.57:426][999]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode12C7FC334D5310A5D78EA4B1055878FD.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-19.00.57:430][999]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-19.03.28:818][843]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Zowchi\Downloads\397471__theogobbo__pgj-breach.wav)
+[2018.04.15-19.03.28:824][843]LogAudioDerivedData: Display: Building compressed audio format OGG wave 397471__theogobbo__pgj-breach...
+[2018.04.15-19.03.28:872][843]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/397471__theogobbo__pgj-breach.397471__theogobbo__pgj-breach.
+[2018.04.15-19.03.59:515][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.04.00:183][ 17]LogSavePackage: Save=625.00ms
+[2018.04.15-19.04.00:183][ 17]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel684B31F1415B124C4B4424AAC41690A2.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.04.00:187][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.04.00:235][ 17]LogFileHelpers: Saving map 'MainLevel' took 0.793
+[2018.04.15-19.04.00:254][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset" SILENT=true
+[2018.04.15-19.04.00:422][ 17]LogSavePackage: Save=150.49ms
+[2018.04.15-19.04.00:422][ 17]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/FollowCubeBP2769D55447986702D6B2C6BA75A69480.tmp' to '../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset'
+[2018.04.15-19.04.00:425][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset
+[2018.04.15-19.04.00:440][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/397471__theogobbo__pgj-breach" FILE="../../../../../Unreal/ClaudiaJob/Content/397471__theogobbo__pgj-breach.uasset" SILENT=true
+[2018.04.15-19.04.00:454][ 17]LogSavePackage: Save=11.39ms
+[2018.04.15-19.04.00:455][ 17]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/397471__theogobbo__pgj-breach923AE9704F603535E35B509F15E24B52.tmp' to '../../../../../Unreal/ClaudiaJob/Content/397471__theogobbo__pgj-breach.uasset'
+[2018.04.15-19.04.00:459][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/397471__theogobbo__pgj-breach.uasset
+[2018.04.15-19.04.22:945][211]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.04.22:985][211]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.04.23:009][211]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.04.23:012][211]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.04.23:012][211]LogFMOD: System sample rate = 48000
+[2018.04.15-19.04.23:012][211]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.04.23:021][211]LogFMOD: Loading Banks
+[2018.04.15-19.04.23:060][211]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.04.23:060][211]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.04.23:060][211]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.04.23:060][211]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.04.23:060][211]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.15-19.04.23:107][211]LogPlayLevel: [PlayLevel] Compiling FollowCubeBP before play...
+[2018.04.15-19.04.23:604][211]LogPlayLevel: PlayLevel: Blueprint regeneration took 543 ms (1 blueprints)
+[2018.04.15-19.04.23:605][211]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:04:23 AM)
+[2018.04.15-19.04.23:605][211]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.04.23:640][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034829s)
+[2018.04.15-19.04.23:641][211]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.04.23:642][211]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2018.04.15-19.04.23:642][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.037113s)
+[2018.04.15-19.04.23:673][211]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.04.23:678][211]LogInit: FAudioDevice initialized.
+[2018.04.15-19.04.23:716][211]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.04.23:728][211]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.04.23
+[2018.04.15-19.04.23:731][211]LogWorld: Bringing up level for play took: 0.010025
+[2018.04.15-19.04.23:733][211]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.42
+[2018.04.15-19.04.23:734][211]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.04.26:061][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.04.26:234][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.04.38:329][913]BlueprintLog: New page: Compile FollowCubeBP
+[2018.04.15-19.04.39:613][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.04.40:236][931]LogSavePackage: Save=592.35ms
+[2018.04.15-19.04.40:237][931]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelF4E845764A9D7ADB760BC1BA9ADD032D.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.04.40:242][931]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.04.40:285][931]LogFileHelpers: Saving map 'MainLevel' took 0.738
+[2018.04.15-19.04.40:301][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset" SILENT=true
+[2018.04.15-19.04.40:461][931]LogSavePackage: Save=148.96ms
+[2018.04.15-19.04.40:461][931]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/FollowCubeBPD3AFDAE9445C97A21F0C158822AC83E9.tmp' to '../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset'
+[2018.04.15-19.04.40:465][931]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset
+[2018.04.15-19.04.40:728][942]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.04.40:781][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.04.40:819][942]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.04.40:822][942]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.04.40:822][942]LogFMOD: System sample rate = 48000
+[2018.04.15-19.04.40:823][942]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.04.40:830][942]LogFMOD: Loading Banks
+[2018.04.15-19.04.40:870][942]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.04.40:870][942]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.04.40:870][942]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.04.40:870][942]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.04.40:871][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-19.04.40:871][942]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:04:40 AM)
+[2018.04.15-19.04.40:871][942]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.04.40:905][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033650s)
+[2018.04.15-19.04.40:905][942]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.04.40:906][942]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2018.04.15-19.04.40:906][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.035169s)
+[2018.04.15-19.04.40:941][942]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.04.40:946][942]LogInit: FAudioDevice initialized.
+[2018.04.15-19.04.40:993][942]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.04.41:006][942]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.04.41
+[2018.04.15-19.04.41:007][942]LogWorld: Bringing up level for play took: 0.010547
+[2018.04.15-19.04.41:011][942]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.697
+[2018.04.15-19.04.41:011][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.04.44:966][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.04.45:125][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.04.59:634][856]BlueprintLog: New page: Compile FollowCubeBP
+[2018.04.15-19.05.00:456][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.05.01:084][859]LogSavePackage: Save=590.95ms
+[2018.04.15-19.05.01:084][859]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelC5A3A12A4105F5E1D72F4280362E7976.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.05.01:088][859]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.05.01:133][859]LogFileHelpers: Saving map 'MainLevel' took 0.751
+[2018.04.15-19.05.01:152][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset" SILENT=true
+[2018.04.15-19.05.01:303][859]LogSavePackage: Save=141.52ms
+[2018.04.15-19.05.01:303][859]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/FollowCubeBPC7FE111F4A6789DAD4339DB12866895E.tmp' to '../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset'
+[2018.04.15-19.05.01:306][859]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset
+[2018.04.15-19.05.14:669][578]BlueprintLog: New page: Compile FollowCubeBP
+[2018.04.15-19.05.15:467][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.05.16:106][581]LogSavePackage: Save=603.31ms
+[2018.04.15-19.05.16:106][581]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel9BF95BF4454CEA50317CDFB9625C3353.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.05.16:113][581]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.05.16:156][581]LogFileHelpers: Saving map 'MainLevel' took 0.760
+[2018.04.15-19.05.16:171][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset" SILENT=true
+[2018.04.15-19.05.16:341][581]LogSavePackage: Save=161.25ms
+[2018.04.15-19.05.16:341][581]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/FollowCubeBPB502F9334D71A515D35020BE448AB1AA.tmp' to '../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset'
+[2018.04.15-19.05.16:344][581]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset
+[2018.04.15-19.05.16:709][598]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.05.16:753][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.16:788][598]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.05.16:791][598]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.05.16:791][598]LogFMOD: System sample rate = 48000
+[2018.04.15-19.05.16:791][598]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.05.16:800][598]LogFMOD: Loading Banks
+[2018.04.15-19.05.16:839][598]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.05.16:839][598]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.05.16:840][598]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.05.16:840][598]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.05.16:840][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-19.05.16:840][598]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:05:16 AM)
+[2018.04.15-19.05.16:841][598]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.05.16:872][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031581s)
+[2018.04.15-19.05.16:874][598]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.05.16:874][598]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2018.04.15-19.05.16:874][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.033876s)
+[2018.04.15-19.05.16:905][598]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.05.16:910][598]LogInit: FAudioDevice initialized.
+[2018.04.15-19.05.16:945][598]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.05.16:957][598]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.05.16
+[2018.04.15-19.05.16:958][598]LogWorld: Bringing up level for play took: 0.008973
+[2018.04.15-19.05.16:960][598]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.647
+[2018.04.15-19.05.16:962][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.20:381][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.20:512][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.30:770][332]BlueprintLog: New page: Compile FollowCubeBP
+[2018.04.15-19.05.31:601][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.05.32:225][335]LogSavePackage: Save=588.04ms
+[2018.04.15-19.05.32:225][335]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel1732683E49306EFFE07EE79BCE68BEFB.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.05.32:228][335]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.05.32:275][335]LogFileHelpers: Saving map 'MainLevel' took 0.748
+[2018.04.15-19.05.32:292][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset" SILENT=true
+[2018.04.15-19.05.32:452][335]LogSavePackage: Save=149.29ms
+[2018.04.15-19.05.32:452][335]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/FollowCubeBPE6B97F2B4389E5ADEB8935A8BB6BCB17.tmp' to '../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset'
+[2018.04.15-19.05.32:455][335]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset
+[2018.04.15-19.05.32:632][342]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.05.32:672][342]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.32:700][342]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.05.32:702][342]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.05.32:702][342]LogFMOD: System sample rate = 48000
+[2018.04.15-19.05.32:702][342]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.05.32:711][342]LogFMOD: Loading Banks
+[2018.04.15-19.05.32:750][342]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.05.32:750][342]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.05.32:750][342]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.05.32:750][342]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.05.32:750][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-19.05.32:751][342]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:05:32 AM)
+[2018.04.15-19.05.32:751][342]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.05.32:786][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035135s)
+[2018.04.15-19.05.32:787][342]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.05.32:787][342]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.04.15-19.05.32:787][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.036613s)
+[2018.04.15-19.05.32:821][342]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.05.32:826][342]LogInit: FAudioDevice initialized.
+[2018.04.15-19.05.32:859][342]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.05.32:871][342]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.05.32
+[2018.04.15-19.05.32:872][342]LogWorld: Bringing up level for play took: 0.009537
+[2018.04.15-19.05.32:874][342]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.56
+[2018.04.15-19.05.32:875][342]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.46:430][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.46:575][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.53:761][448]BlueprintLog: New page: Compile FollowCubeBP
+[2018.04.15-19.05.54:748][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.05.55:372][460]LogSavePackage: Save=589.30ms
+[2018.04.15-19.05.55:372][460]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel2824B0954D73F4FDF0A2F19E4070A60A.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.05.55:375][460]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.05.55:420][460]LogFileHelpers: Saving map 'MainLevel' took 0.745
+[2018.04.15-19.05.55:434][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset" SILENT=true
+[2018.04.15-19.05.55:587][460]LogSavePackage: Save=143.10ms
+[2018.04.15-19.05.55:587][460]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/FollowCubeBP030203224D55B0F669DE16A9EF799637.tmp' to '../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset'
+[2018.04.15-19.05.55:591][460]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset
+[2018.04.15-19.05.55:802][469]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.05.55:843][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.05.55:869][469]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.05.55:871][469]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.05.55:871][469]LogFMOD: System sample rate = 48000
+[2018.04.15-19.05.55:872][469]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.05.55:878][469]LogFMOD: Loading Banks
+[2018.04.15-19.05.55:920][469]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.05.55:920][469]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.05.55:921][469]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.05.55:921][469]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.05.55:921][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-19.05.55:921][469]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:05:55 AM)
+[2018.04.15-19.05.55:921][469]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.05.55:954][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032586s)
+[2018.04.15-19.05.55:955][469]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.05.55:955][469]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.04.15-19.05.55:955][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.034093s)
+[2018.04.15-19.05.55:986][469]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.05.55:992][469]LogInit: FAudioDevice initialized.
+[2018.04.15-19.05.56:028][469]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.05.56:040][469]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.05.56
+[2018.04.15-19.05.56:042][469]LogWorld: Bringing up level for play took: 0.010331
+[2018.04.15-19.05.56:044][469]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.27
+[2018.04.15-19.05.56:045][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.06.06:183][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.06.06:314][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.06.12:727][361]BlueprintLog: New page: Compile FollowCubeBP
+[2018.04.15-19.06.13:725][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.06.14:356][373]LogSavePackage: Save=598.60ms
+[2018.04.15-19.06.14:357][373]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel779044C047030DCD536E9E9398607161.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.06.14:361][373]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.06.14:403][373]LogFileHelpers: Saving map 'MainLevel' took 0.749
+[2018.04.15-19.06.14:422][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset" SILENT=true
+[2018.04.15-19.06.14:575][373]LogSavePackage: Save=143.35ms
+[2018.04.15-19.06.14:575][373]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/FollowCubeBPF8735D7C427B4D9885243686ECFEB02D.tmp' to '../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset'
+[2018.04.15-19.06.14:578][373]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset
+[2018.04.15-19.06.15:625][426]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.06.15:656][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.06.15:689][426]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.06.15:691][426]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.06.15:692][426]LogFMOD: System sample rate = 48000
+[2018.04.15-19.06.15:692][426]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.06.15:699][426]LogFMOD: Loading Banks
+[2018.04.15-19.06.15:738][426]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.06.15:739][426]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.06.15:740][426]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.06.15:741][426]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.06.15:741][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-19.06.15:741][426]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:06:15 AM)
+[2018.04.15-19.06.15:742][426]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.06.15:778][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035670s)
+[2018.04.15-19.06.15:779][426]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.06.15:781][426]LogPlayLevel: PIE: World Init took: (0.003266s)
+[2018.04.15-19.06.15:782][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.040036s)
+[2018.04.15-19.06.15:813][426]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.06.15:817][426]LogInit: FAudioDevice initialized.
+[2018.04.15-19.06.15:856][426]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.06.15:867][426]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.06.15
+[2018.04.15-19.06.15:867][426]LogWorld: Bringing up level for play took: 0.008730
+[2018.04.15-19.06.15:872][426]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.442
+[2018.04.15-19.06.15:873][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.06.26:358][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.06.26:515][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.06.35:814][488]BlueprintLog: New page: Compile FollowCubeBP
+[2018.04.15-19.06.45:754][998]BlueprintLog: New page: Compile FollowCubeBP
+[2018.04.15-19.06.46:743][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.06.47:366][ 10]LogSavePackage: Save=589.26ms
+[2018.04.15-19.06.47:366][ 10]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelC1ECDF574A6AE70E6628528C582CC80F.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.06.47:372][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.06.47:417][ 10]LogFileHelpers: Saving map 'MainLevel' took 0.747
+[2018.04.15-19.06.47:434][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset" SILENT=true
+[2018.04.15-19.06.47:593][ 10]LogSavePackage: Save=149.54ms
+[2018.04.15-19.06.47:593][ 10]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/FollowCubeBPF680DA7E4A1019636C92E48C3AD96409.tmp' to '../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset'
+[2018.04.15-19.06.47:596][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/FollowCubeBP.uasset
+[2018.04.15-19.06.48:023][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.06.48:056][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.06.48:098][ 29]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.06.48:101][ 29]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.06.48:101][ 29]LogFMOD: System sample rate = 48000
+[2018.04.15-19.06.48:101][ 29]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.06.48:111][ 29]LogFMOD: Loading Banks
+[2018.04.15-19.06.48:150][ 29]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.06.48:151][ 29]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.06.48:151][ 29]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.06.48:151][ 29]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.06.48:151][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-19.06.48:152][ 29]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:06:48 AM)
+[2018.04.15-19.06.48:152][ 29]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.06.48:183][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031177s)
+[2018.04.15-19.06.48:184][ 29]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.06.48:184][ 29]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.04.15-19.06.48:184][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.032678s)
+[2018.04.15-19.06.48:217][ 29]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.06.48:222][ 29]LogInit: FAudioDevice initialized.
+[2018.04.15-19.06.48:258][ 29]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.06.48:269][ 29]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.06.48
+[2018.04.15-19.06.48:271][ 29]LogWorld: Bringing up level for play took: 0.008760
+[2018.04.15-19.06.48:273][ 29]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.041
+[2018.04.15-19.06.48:274][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.07.12:423][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.07.12:575][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.21.06:340][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-1.wav]
+[2018.04.15-19.21.06:354][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-1.wav)
+[2018.04.15-19.21.06:379][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:401][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-10.wav]
+[2018.04.15-19.21.06:412][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-10.wav)
+[2018.04.15-19.21.06:434][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:456][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-11.wav]
+[2018.04.15-19.21.06:460][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-11.wav)
+[2018.04.15-19.21.06:468][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:481][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-2.wav]
+[2018.04.15-19.21.06:484][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-2.wav)
+[2018.04.15-19.21.06:491][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:503][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-3.wav]
+[2018.04.15-19.21.06:510][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-3.wav)
+[2018.04.15-19.21.06:522][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:534][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-4.wav]
+[2018.04.15-19.21.06:537][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-4.wav)
+[2018.04.15-19.21.06:543][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:551][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-5.wav]
+[2018.04.15-19.21.06:556][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-5.wav)
+[2018.04.15-19.21.06:564][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:576][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-6.wav]
+[2018.04.15-19.21.06:593][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-6.wav)
+[2018.04.15-19.21.06:624][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:648][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-7.wav]
+[2018.04.15-19.21.06:655][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-7.wav)
+[2018.04.15-19.21.06:671][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:687][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-8.wav]
+[2018.04.15-19.21.06:690][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-8.wav)
+[2018.04.15-19.21.06:699][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:712][636]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-9.wav]
+[2018.04.15-19.21.06:713][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-9.wav)
+[2018.04.15-19.21.06:719][636]LogAudioEditor: -- imported successfully
+[2018.04.15-19.21.06:761][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-9...
+[2018.04.15-19.21.06:813][636]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Voices/Audio_Track-9.Audio_Track-9.
+[2018.04.15-19.21.06:814][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-8...
+[2018.04.15-19.21.06:947][636]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Voices/Audio_Track-8.Audio_Track-8.
+[2018.04.15-19.21.06:948][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-7...
+[2018.04.15-19.21.07:259][636]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Voices/Audio_Track-7.Audio_Track-7.
+[2018.04.15-19.21.07:261][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-6...
+[2018.04.15-19.21.07:872][636]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Voices/Audio_Track-6.Audio_Track-6.
+[2018.04.15-19.21.07:873][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-5...
+[2018.04.15-19.21.08:051][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-4...
+[2018.04.15-19.21.08:150][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-3...
+[2018.04.15-19.21.08:402][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-2...
+[2018.04.15-19.21.08:500][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-11...
+[2018.04.15-19.21.08:627][636]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Voices/Audio_Track-11.Audio_Track-11.
+[2018.04.15-19.21.08:628][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-10...
+[2018.04.15-19.21.09:050][636]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Voices/Audio_Track-10.Audio_Track-10.
+[2018.04.15-19.21.09:052][636]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-1...
+[2018.04.15-19.21.12:672][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.028
+[2018.04.15-19.21.12:674][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-1] ([1] browsable assets)...
+[2018.04.15-19.21.12:684][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-1.Audio_Track-1]
+[2018.04.15-19.21.12:685][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-1]
+[2018.04.15-19.21.12:685][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-1" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.12:724][810]LogSavePackage: Save=14.01ms
+[2018.04.15-19.21.12:724][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-1_Auto1F2FB333C42AF505B69D24B92F0568865.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-1_Auto1.uasset'
+[2018.04.15-19.21.12:726][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-1_Auto1.uasset
+[2018.04.15-19.21.12:727][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-10] ([1] browsable assets)...
+[2018.04.15-19.21.12:735][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-10.Audio_Track-10]
+[2018.04.15-19.21.12:736][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-10]
+[2018.04.15-19.21.12:736][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-10" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-10_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.12:763][810]LogSavePackage: Save=12.10ms
+[2018.04.15-19.21.12:764][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-10_Auto1FD0028DA47A6E283932075B8F96D354B.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-10_Auto1.uasset'
+[2018.04.15-19.21.12:765][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-10_Auto1.uasset
+[2018.04.15-19.21.12:766][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-11] ([1] browsable assets)...
+[2018.04.15-19.21.12:772][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-11.Audio_Track-11]
+[2018.04.15-19.21.12:772][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-11]
+[2018.04.15-19.21.12:773][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-11" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-11_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.12:800][810]LogSavePackage: Save=10.31ms
+[2018.04.15-19.21.12:800][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-11_Auto197619C1448F8FF2C409AD5B5FC0FBD30.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-11_Auto1.uasset'
+[2018.04.15-19.21.12:801][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-11_Auto1.uasset
+[2018.04.15-19.21.12:802][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-3] ([1] browsable assets)...
+[2018.04.15-19.21.12:808][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-3.Audio_Track-3]
+[2018.04.15-19.21.12:809][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-3]
+[2018.04.15-19.21.12:809][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-3" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.12:841][810]LogSavePackage: Save=14.26ms
+[2018.04.15-19.21.12:841][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-3_Auto1896E63C04E1457CA0021B8B62374E209.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-3_Auto1.uasset'
+[2018.04.15-19.21.12:842][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-3_Auto1.uasset
+[2018.04.15-19.21.12:843][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-5] ([1] browsable assets)...
+[2018.04.15-19.21.12:850][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-5.Audio_Track-5]
+[2018.04.15-19.21.12:850][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-5]
+[2018.04.15-19.21.12:850][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-5" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-5_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.12:880][810]LogSavePackage: Save=14.00ms
+[2018.04.15-19.21.12:880][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-5_Auto1FACFB7214A92431AB1F85CA1888BDF7E.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-5_Auto1.uasset'
+[2018.04.15-19.21.12:881][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-5_Auto1.uasset
+[2018.04.15-19.21.12:882][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-6] ([1] browsable assets)...
+[2018.04.15-19.21.12:891][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-6.Audio_Track-6]
+[2018.04.15-19.21.12:891][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-6]
+[2018.04.15-19.21.12:891][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-6" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-6_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.12:922][810]LogSavePackage: Save=12.07ms
+[2018.04.15-19.21.12:922][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-6_Auto12D9340FF4D8D36376387F19554D4D0E5.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-6_Auto1.uasset'
+[2018.04.15-19.21.12:924][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-6_Auto1.uasset
+[2018.04.15-19.21.12:924][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-9] ([1] browsable assets)...
+[2018.04.15-19.21.12:931][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-9.Audio_Track-9]
+[2018.04.15-19.21.12:931][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-9]
+[2018.04.15-19.21.12:931][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-9" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-9_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.12:960][810]LogSavePackage: Save=9.15ms
+[2018.04.15-19.21.12:960][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-9_Auto1839E6FD54FCA0FCC8073FB97BF12AC7E.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-9_Auto1.uasset'
+[2018.04.15-19.21.12:961][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-9_Auto1.uasset
+[2018.04.15-19.21.12:962][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-2] ([1] browsable assets)...
+[2018.04.15-19.21.12:969][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-2.Audio_Track-2]
+[2018.04.15-19.21.12:969][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-2]
+[2018.04.15-19.21.12:969][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-2" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.12:994][810]LogSavePackage: Save=9.86ms
+[2018.04.15-19.21.12:994][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-2_Auto153F543BD40D4DEE13094609275FEDDC8.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-2_Auto1.uasset'
+[2018.04.15-19.21.12:996][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-2_Auto1.uasset
+[2018.04.15-19.21.12:996][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-4] ([1] browsable assets)...
+[2018.04.15-19.21.13:001][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-4.Audio_Track-4]
+[2018.04.15-19.21.13:002][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-4]
+[2018.04.15-19.21.13:002][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-4" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.13:029][810]LogSavePackage: Save=10.34ms
+[2018.04.15-19.21.13:030][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-4_Auto107FBDFE94D361FE6F80E02B2FD893922.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-4_Auto1.uasset'
+[2018.04.15-19.21.13:031][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-4_Auto1.uasset
+[2018.04.15-19.21.13:031][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-7] ([1] browsable assets)...
+[2018.04.15-19.21.13:039][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-7.Audio_Track-7]
+[2018.04.15-19.21.13:039][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-7]
+[2018.04.15-19.21.13:039][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-7" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-7_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.13:071][810]LogSavePackage: Save=9.78ms
+[2018.04.15-19.21.13:071][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-7_Auto1BDE705724A88DE4895287B9CCBC1E107.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-7_Auto1.uasset'
+[2018.04.15-19.21.13:072][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-7_Auto1.uasset
+[2018.04.15-19.21.13:072][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Voices/Audio_Track-8] ([1] browsable assets)...
+[2018.04.15-19.21.13:080][810]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Voices/Audio_Track-8.Audio_Track-8]
+[2018.04.15-19.21.13:080][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Voices/Audio_Track-8]
+[2018.04.15-19.21.13:082][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-8" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-8_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-19.21.13:110][810]LogSavePackage: Save=9.05ms
+[2018.04.15-19.21.13:110][810]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-8_Auto16C55F9604D422B6727CB81BE85D468CC.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-8_Auto1.uasset'
+[2018.04.15-19.21.13:111][810]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/Voices/Audio_Track-8_Auto1.uasset
+[2018.04.15-19.21.13:111][810]LogFileHelpers: Auto-saving content packages took 0.438
+[2018.04.15-19.21.26:570][ 38]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.15-19.21.26:985][ 38]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.15-19.21.27:110][ 38]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.15-19.21.29:758][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-1" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-1.uasset" SILENT=true
+[2018.04.15-19.21.29:780][103]LogSavePackage: Save=9.87ms
+[2018.04.15-19.21.29:780][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-11754B0D641970186246F5087A1B1FEED.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-1.uasset'
+[2018.04.15-19.21.29:790][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-1.uasset
+[2018.04.15-19.21.29:793][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-10" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-10.uasset" SILENT=true
+[2018.04.15-19.21.29:811][103]LogSavePackage: Save=8.11ms
+[2018.04.15-19.21.29:811][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-102DAF5B8149C902FEB6ED4EAB2128E518.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-10.uasset'
+[2018.04.15-19.21.29:820][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-10.uasset
+[2018.04.15-19.21.29:824][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-11" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-11.uasset" SILENT=true
+[2018.04.15-19.21.29:840][103]LogSavePackage: Save=5.96ms
+[2018.04.15-19.21.29:840][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-11A58B818F4060A7E7FF4BEABE94C33E4E.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-11.uasset'
+[2018.04.15-19.21.29:849][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-11.uasset
+[2018.04.15-19.21.29:853][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-3" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-3.uasset" SILENT=true
+[2018.04.15-19.21.29:870][103]LogSavePackage: Save=7.20ms
+[2018.04.15-19.21.29:870][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-35F3C1D5847DC7F03C88BB394E4B197EC.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-3.uasset'
+[2018.04.15-19.21.29:880][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-3.uasset
+[2018.04.15-19.21.29:883][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-5" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-5.uasset" SILENT=true
+[2018.04.15-19.21.29:901][103]LogSavePackage: Save=7.12ms
+[2018.04.15-19.21.29:901][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-5F94A5BCA4C18FBEDDCC70AA6D20F9D72.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-5.uasset'
+[2018.04.15-19.21.29:910][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-5.uasset
+[2018.04.15-19.21.29:914][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-6" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-6.uasset" SILENT=true
+[2018.04.15-19.21.29:932][103]LogSavePackage: Save=8.17ms
+[2018.04.15-19.21.29:932][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-68EF18D3842E2EDE005BB8A92692B13C1.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-6.uasset'
+[2018.04.15-19.21.29:942][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-6.uasset
+[2018.04.15-19.21.29:944][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-9" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-9.uasset" SILENT=true
+[2018.04.15-19.21.29:960][103]LogSavePackage: Save=6.54ms
+[2018.04.15-19.21.29:961][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-91152F011499D4245F282D5B411D4A5C5.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-9.uasset'
+[2018.04.15-19.21.29:971][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-9.uasset
+[2018.04.15-19.21.29:974][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-8" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-8.uasset" SILENT=true
+[2018.04.15-19.21.29:991][103]LogSavePackage: Save=7.32ms
+[2018.04.15-19.21.29:991][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-899156B1D4CCC3C1D24A32585EBD0364A.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-8.uasset'
+[2018.04.15-19.21.30:000][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-8.uasset
+[2018.04.15-19.21.30:003][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-7" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-7.uasset" SILENT=true
+[2018.04.15-19.21.30:021][103]LogSavePackage: Save=6.20ms
+[2018.04.15-19.21.30:021][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-78075A5CD4D2CC1ED631568B433198E74.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-7.uasset'
+[2018.04.15-19.21.30:027][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-7.uasset
+[2018.04.15-19.21.30:031][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-4" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-4.uasset" SILENT=true
+[2018.04.15-19.21.30:048][103]LogSavePackage: Save=6.78ms
+[2018.04.15-19.21.30:048][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-4FC3D4FE04CD74B3B034E89A3770711E4.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-4.uasset'
+[2018.04.15-19.21.30:053][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-4.uasset
+[2018.04.15-19.21.30:059][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-2" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-2.uasset" SILENT=true
+[2018.04.15-19.21.30:074][103]LogSavePackage: Save=5.12ms
+[2018.04.15-19.21.30:074][103]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-2145FD7654999EB6275659BB2A985835B.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-2.uasset'
+[2018.04.15-19.21.30:079][103]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-2.uasset
+[2018.04.15-19.21.42:578][835]LogEditorViewport: Clicking on Actor (LMB): RedCubeBP_C (RedCubeBP19)
+[2018.04.15-19.21.43:891][909]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP)
+[2018.04.15-19.21.49:277][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2018.04.15-19.21.50:427][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2018.04.15-19.21.51:260][331]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP2)
+[2018.04.15-19.23.08:700][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor16)
+[2018.04.15-19.23.09:610][722]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP3)
+[2018.04.15-19.23.42:994][682]Cmd: EDIT COPY
+[2018.04.15-19.23.43:247][697]Cmd: EDIT PASTE
+[2018.04.15-19.25.01:911][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.04.15-19.25.03:690][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor16)
+[2018.04.15-19.25.04:150][372]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP3)
+[2018.04.15-19.25.32:846][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor17)
+[2018.04.15-19.25.38:271][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor46)
+[2018.04.15-19.25.38:913][363]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP4)
+[2018.04.15-19.25.49:094][961]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP5)
+[2018.04.15-19.26.13:824][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor29)
+[2018.04.15-19.26.14:318][436]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP6)
+[2018.04.15-19.26.24:052][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2018.04.15-19.26.24:944][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2018.04.15-19.26.25:666][ 89]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP7)
+[2018.04.15-19.26.37:982][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-19.26.38:581][838]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP8)
+[2018.04.15-19.27.03:433][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.27.04:065][257]LogSavePackage: Save=590.70ms
+[2018.04.15-19.27.04:065][257]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel9BED8B4A43C06088EBC0E5A392512F51.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.27.04:071][257]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.27.04:115][257]LogFileHelpers: Saving map 'MainLevel' took 0.762
+[2018.04.15-19.27.04:119][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-19.27.04:300][257]LogSavePackage: Save=164.07ms
+[2018.04.15-19.27.04:301][257]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameModeA859E41644059863F2E30D86827BC486.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-19.27.04:303][257]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-19.29.19:704][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-19.29.19:875][178]LogSavePackage: Save=162.74ms
+[2018.04.15-19.29.19:876][178]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode447F28EC48A2B5C3DEC749823B5C47AB.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-19.29.19:881][178]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-19.29.21:160][238]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-19.29.22:513][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.29.23:141][277]LogSavePackage: Save=598.23ms
+[2018.04.15-19.29.23:142][277]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel4D72A4E44A87E2FBA0CB0BAAE9C00FDD.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.29.23:145][277]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.29.23:191][277]LogFileHelpers: Saving map 'MainLevel' took 0.758
+[2018.04.15-19.29.56:919][722]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-19.29.58:545][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.29.59:174][751]LogSavePackage: Save=597.29ms
+[2018.04.15-19.29.59:174][751]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel29DA4EED412B31A4D0FA33874A63189D.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.29.59:178][751]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.29.59:226][751]LogFileHelpers: Saving map 'MainLevel' took 0.756
+[2018.04.15-19.29.59:243][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-19.29.59:624][751]LogSavePackage: Save=362.18ms
+[2018.04.15-19.29.59:624][751]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnFDBD60774F0372E7DDDFFABD68DE7858.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-19.29.59:629][751]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-19.30.03:271][889]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{574f6de8-d5de-4164-9489-09ac7bde62b0} was removed. Shutting down audio device.
+[2018.04.15-19.30.03:290][889]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.30.07:827][ 63]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\lowlevel_api\platforms\win\src\fmod_output_wasapi.cpp(519) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2018.04.15-19.30.08:023][ 70]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\lowlevel_api\platforms\win\src\fmod_output_wasapi.cpp(519) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2018.04.15-19.30.17:014][411]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.30.17:096][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.30.17:128][411]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.30.17:130][411]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.30.17:131][411]LogFMOD: System sample rate = 48000
+[2018.04.15-19.30.17:131][411]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.30.17:141][411]LogFMOD: Loading Banks
+[2018.04.15-19.30.17:179][411]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.30.17:180][411]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.30.17:180][411]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.30.17:181][411]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.30.17:181][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-19.30.17:181][411]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:30:17 AM)
+[2018.04.15-19.30.17:181][411]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.30.17:214][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032837s)
+[2018.04.15-19.30.17:215][411]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.30.17:215][411]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2018.04.15-19.30.17:215][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.034082s)
+[2018.04.15-19.30.17:242][411]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.30.17:247][411]LogInit: FAudioDevice initialized.
+[2018.04.15-19.30.17:283][411]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.30.17:293][411]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.30.17
+[2018.04.15-19.30.17:294][411]LogWorld: Bringing up level for play took: 0.007861
+[2018.04.15-19.30.17:296][411]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.982
+[2018.04.15-19.30.17:296][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.32.42:852][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.32.43:024][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.33.35:140][315]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-19.33.36:620][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.33.37:246][346]LogSavePackage: Save=580.66ms
+[2018.04.15-19.33.37:246][346]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel4B5C46E5414FE58EB7FEBFAA44AE71F5.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.33.37:251][346]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.33.37:293][346]LogFileHelpers: Saving map 'MainLevel' took 0.753
+[2018.04.15-19.33.37:310][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-19.33.37:677][346]LogSavePackage: Save=355.55ms
+[2018.04.15-19.33.37:677][346]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn3AB3CD30401EAE48EC3B169B42A1B062.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-19.33.37:681][346]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-19.33.55:500][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.33.56:122][102]LogSavePackage: Save=591.55ms
+[2018.04.15-19.33.56:123][102]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelA9524AB740B888D4ACD4A196D58925FF.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.33.56:127][102]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.33.56:174][102]LogFileHelpers: Saving map 'MainLevel' took 0.750
+[2018.04.15-19.33.56:494][115]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-19.33.56:572][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.33.56:598][115]LogFMOD: Creating runtime Studio System
+[2018.04.15-19.33.56:601][115]LogFMOD: Default sample rate = 48000
+[2018.04.15-19.33.56:601][115]LogFMOD: System sample rate = 48000
+[2018.04.15-19.33.56:601][115]LogFMOD: Matching system sample rate 48000
+[2018.04.15-19.33.56:611][115]LogFMOD: Loading Banks
+[2018.04.15-19.33.56:649][115]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-19.33.56:649][115]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-19.33.56:650][115]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-19.33.56:650][115]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-19.33.56:651][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-19.33.56:651][115]PIE: New page: PIE session: MainLevel (Apr 15, 2018, 5:33:56 AM)
+[2018.04.15-19.33.56:651][115]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-19.33.56:682][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030465s)
+[2018.04.15-19.33.56:682][115]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-19.33.56:683][115]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.04.15-19.33.56:683][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.031900s)
+[2018.04.15-19.33.56:711][115]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-19.33.56:716][115]LogInit: FAudioDevice initialized.
+[2018.04.15-19.33.56:754][115]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-19.33.56:767][115]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.15-12.33.56
+[2018.04.15-19.33.56:769][115]LogWorld: Bringing up level for play took: 0.011036
+[2018.04.15-19.33.56:771][115]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.457
+[2018.04.15-19.33.56:771][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.33.57:822][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.33.58:012][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-19.34.04:669][432]LogEditorViewport: Clicking on Actor (LMB): BlueCubeBP_C (BlueCubeBP2)
+[2018.04.15-19.34.07:730][553]Cmd: EDIT COPY
+[2018.04.15-19.34.08:577][589]Cmd: EDIT PASTE
+[2018.04.15-19.34.35:466][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.34.36:123][676]LogSavePackage: Save=623.23ms
+[2018.04.15-19.34.36:123][676]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel32E0F7DD498BC20BECA65A8EEC8F2046.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.34.36:126][676]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.34.36:167][676]LogFileHelpers: Saving map 'MainLevel' took 0.780
+[2018.04.15-19.36.04:181][974]BlueprintLog: New page: Compile BlueCubeBP
+[2018.04.15-19.36.06:744][ 37]BlueprintLog: New page: Compile BlueCubeBP
+[2018.04.15-19.36.10:789][178]BlueprintLog: New page: Compile BlueCubeBP
+[2018.04.15-19.36.12:771][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.36.13:390][205]LogSavePackage: Save=588.24ms
+[2018.04.15-19.36.13:391][205]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel83AF9C7F4D046BA00139AF8EB844B70F.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.36.13:394][205]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.36.13:437][205]LogFileHelpers: Saving map 'MainLevel' took 0.746
+[2018.04.15-19.36.13:454][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset" SILENT=true
+[2018.04.15-19.36.13:503][205]LogSavePackage: Save=35.03ms
+[2018.04.15-19.36.13:503][205]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueCubeBPB9B0D629464B9BBBED3FF1912EA92FEF.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset'
+[2018.04.15-19.36.13:505][205]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset
+[2018.04.15-19.36.19:280][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.36.19:909][494]LogSavePackage: Save=597.90ms
+[2018.04.15-19.36.19:909][494]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel8EBDC10545A64550C5E43CB71D16BC38.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.36.19:912][494]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.36.19:954][494]LogFileHelpers: Saving map 'MainLevel' took 0.757
+[2018.04.15-19.36.37:582][373]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-19.36.40:351][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.36.40:973][402]LogSavePackage: Save=588.83ms
+[2018.04.15-19.36.40:973][402]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelEB08904A47C132C7058FBB9E11A5966C.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.36.40:976][402]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.36.41:021][402]LogFileHelpers: Saving map 'MainLevel' took 0.751
+[2018.04.15-19.36.41:036][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-19.36.41:412][402]LogSavePackage: Save=360.14ms
+[2018.04.15-19.36.41:412][402]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnF2A6637843CE41CA1A07BE9A70920F1C.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-19.36.41:415][402]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-19.36.41:432][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset" SILENT=true
+[2018.04.15-19.36.41:476][402]LogSavePackage: Save=35.14ms
+[2018.04.15-19.36.41:476][402]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueCubeBPFBACCC9C48D77284EB3648B7AABE428E.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset'
+[2018.04.15-19.36.41:480][402]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset
+[2018.04.15-19.36.53:438][  9]BlueprintLog: New page: Compile BlueCubeBP
+[2018.04.15-19.36.55:924][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.36.56:546][ 65]LogSavePackage: Save=590.60ms
+[2018.04.15-19.36.56:546][ 65]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelC8D1B48542FC997A99CC508CA4DB2492.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.36.56:550][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.36.56:595][ 65]LogFileHelpers: Saving map 'MainLevel' took 0.743
+[2018.04.15-19.36.56:615][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueCubeBP" FILE="../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset" SILENT=true
+[2018.04.15-19.36.56:663][ 65]LogSavePackage: Save=38.14ms
+[2018.04.15-19.36.56:663][ 65]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/BlueCubeBPBAB6CD784F1FA121EF987583C74D2B34.tmp' to '../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset'
+[2018.04.15-19.36.56:666][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/BlueCubeBP.uasset
+[2018.04.15-19.37.32:912][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor43)
+[2018.04.15-19.37.36:727][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-19.37.37:369][210]LogSavePackage: Save=608.79ms
+[2018.04.15-19.37.37:369][210]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel358E1F4A49E25C417EE65A9FEFCB6333.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-19.37.37:373][210]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-19.37.37:417][210]LogFileHelpers: Saving map 'MainLevel' took 0.770
+[2018.04.15-19.37.42:401][487]LogEditorViewport: Clicking on Actor (LMB): BlueCubeBP_C (BlueCubeBP3)
+[2018.04.15-19.37.45:507][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor48)

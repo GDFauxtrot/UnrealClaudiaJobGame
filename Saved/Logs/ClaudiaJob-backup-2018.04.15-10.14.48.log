@@ -1,0 +1,1365 @@
+﻿Log file open, 04/14/18 19:17:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClaudiaJob
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2115922085) SRandInit(2115922085).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.175979
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/SoundVisualizations/Binaries/Win64/UE4Editor-SoundVisualizations.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/FMODStudio/Binaries/Win64/UE4Editor-FMODStudio.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/FMODStudio/Binaries/Win64/UE4Editor-FMODStudioEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundVisualizations
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.15-02.17.43:004][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.15-02.17.43:004][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.15-02.17.43:016][  0]LogInit: Computer: LAPTOP-PLBLP26D
+[2018.04.15-02.17.43:016][  0]LogInit: User: Zowchi
+[2018.04.15-02.17.43:016][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.15-02.17.43:016][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.04.15-02.17.43:017][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.15-02.17.43:017][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.15-02.17.43:017][  0]LogMemory: Process Physical Memory: 273.34 MB used, 273.34 MB peak
+[2018.04.15-02.17.43:017][  0]LogMemory: Process Virtual Memory: 273.98 MB used, 273.98 MB peak
+[2018.04.15-02.17.43:017][  0]LogMemory: Physical Memory: 9907.64 MB used,  6359.95 MB free, 16267.60 MB total
+[2018.04.15-02.17.43:017][  0]LogMemory: Virtual Memory: 681.67 MB used,  6359.95 MB free, 134217728.00 MB total
+[2018.04.15-02.17.43:189][  0]LogInit: Using OS detected language (en-US).
+[2018.04.15-02.17.43:189][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.15-02.17.43:192][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.15-02.17.43:584][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.15-02.17.43:845][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.15-02.17.43:879][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.04.15-02.17.43:879][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.15-02.17.43:888][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.04.15-02.17.43:888][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.15-02.17.43:890][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.15-02.17.43:890][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.15-02.17.43:890][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.15-02.17.43:897][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.15-02.17.43:897][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.15-02.17.43:897][  0]LogWindows: EnumDisplayDevices:
+[2018.04.15-02.17.43:897][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.04.15-02.17.43:897][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.15-02.17.43:897][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.15-02.17.43:897][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.04.15-02.17.43:897][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.15-02.17.43:897][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.04.15-02.17.43:897][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.15-02.17.43:897][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.15-02.17.43:897][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.04.15-02.17.43:924][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.15-02.17.43:940][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.15-02.17.43:944][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../Unreal/ClaudiaJob/Intermediate/Shaders/WorkingDirectory/25520/).
+[2018.04.15-02.17.43:944][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Zowchi/AppData/Local/Temp/UnrealShaderWorkingDir/40893A9A492782E43CFA8EACFE6872D1/'.
+[2018.04.15-02.17.43:944][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.15-02.17.44:867][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.15-02.17.44:924][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.15-02.17.44:982][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.15-02.17.45:044][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.15-02.17.45:102][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.15-02.17.45:161][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.15-02.17.45:219][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.15-02.17.45:277][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.15-02.17.45:328][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.15-02.17.45:385][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.15-02.17.45:442][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.15-02.17.45:498][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.15-02.17.45:554][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.15-02.17.45:610][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.15-02.17.45:722][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.15-02.17.45:722][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.15-02.17.45:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.15-02.17.45:825][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.15-02.17.45:925][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.15-02.17.45:955][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.15-02.17.46:011][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.15-02.17.46:069][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.15-02.17.46:125][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.15-02.17.46:182][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.15-02.17.46:182][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.15-02.17.46:730][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.15-02.17.46:795][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Zowchi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.15-02.17.46:795][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Zowchi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.15-02.17.46:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/ClaudiaJob/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.15-02.17.46:795][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.15-02.17.46:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/ClaudiaJob/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.15-02.17.46:795][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.15-02.17.46:810][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.15-02.17.46:822][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Zowchi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.15-02.17.46:832][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.15-02.17.46:833][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.15-02.17.46:833][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.15-02.17.46:833][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.15-02.17.47:192][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.15-02.17.47:559][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.15-02.17.47:606][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.15-02.17.47:606][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.15-02.17.47:606][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.15-02.17.47:606][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.15-02.17.47:607][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.15-02.17.47:636][  0]LogNetVersion: ClaudiaJob , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1314660921)
+[2018.04.15-02.17.47:815][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.04.15-02.17.48:319][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.064022 seconds
+[2018.04.15-02.17.48:324][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.15-02.17.48:324][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.15-02.17.48:324][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.15-02.17.48:388][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.15-02.17.51:355][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.15-02.17.51:408][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.15-02.17.51:526][  0]LogFMOD: FFMODStudioModule startup
+[2018.04.15-02.17.51:526][  0]LogFMOD:  Lib path = '../../../Engine/Plugins/Runtime/FMODStudio/Binaries'
+[2018.04.15-02.17.51:526][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/Runtime/FMODStudio/Binaries/Win64/fmodL64.dll
+[2018.04.15-02.17.51:532][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/Runtime/FMODStudio/Binaries/Win64/fmodstudioL64.dll
+[2018.04.15-02.17.51:563][  0]LogFMOD: Loading strings bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank
+[2018.04.15-02.17.51:565][  0]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-02.17.51:565][  0]LogFMOD: Warning: Failed to load strings bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank
+[2018.04.15-02.17.51:567][  0]LogFMOD: Default sample rate = 48000
+[2018.04.15-02.17.51:567][  0]LogFMOD: System sample rate = 48000
+[2018.04.15-02.17.51:567][  0]LogFMOD: Matching system sample rate 48000
+[2018.04.15-02.17.51:577][  0]LogFMOD: Default sample rate = 48000
+[2018.04.15-02.17.51:577][  0]LogFMOD: System sample rate = 48000
+[2018.04.15-02.17.51:577][  0]LogFMOD: Matching system sample rate 48000
+[2018.04.15-02.17.52:282][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.15-02.17.52:763][  0]SourceControl: Source control is disabled
+[2018.04.15-02.17.52:763][  0]SourceControl: Source control is disabled
+[2018.04.15-02.17.52:824][  0]SourceControl: Source control is disabled
+[2018.04.15-02.17.52:888][  0]SourceControl: Source control is disabled
+[2018.04.15-02.17.53:828][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.15-02.17.54:076][  0]LogFMOD: FFMODStudioEditorModule startup
+[2018.04.15-02.17.54:224][  0]LogOcInput: OculusInput pre-init called
+[2018.04.15-02.17.54:613][  0]LogEngine: Initializing Engine...
+[2018.04.15-02.17.54:616][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.15-02.17.54:820][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.15-02.17.54:820][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.15-02.17.54:974][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.15-02.17.54:980][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-02.17.54:985][  0]LogInit: FAudioDevice initialized.
+[2018.04.15-02.17.55:134][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Zowchi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.15-02.17.55:147][  0]LogInit: Texture streaming: Enabled
+[2018.04.15-02.17.55:265][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.15-02.17.55:418][  0]LogInit: Transaction tracking system initialized
+[2018.04.15-02.17.55:789][  0]BlueprintLog: New page: Editor Load
+[2018.04.15-02.17.56:834][  0]LocalizationService: Localization service is disabled
+[2018.04.15-02.17.57:446][  0]LogLinker: Warning: Can't find file '/Game/RollingBP/RollingOverview'
+[2018.04.15-02.17.57:446][  0]LogLinker: Warning: Can't find file '/Game/RollingBP/RollingOverview'
+[2018.04.15-02.17.57:446][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/RollingBP/RollingOverview.RollingOverview_C'
+[2018.04.15-02.17.57:694][  0]LogConsoleResponse: Display: 
+[2018.04.15-02.17.57:884][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.15-02.17.57:884][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.15-02.17.57:885][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.15-02.17.59:229][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal/ClaudiaJob/Content/' took 0.01s
+[2018.04.15-02.17.59:283][  0]SourceControl: Source control is disabled
+[2018.04.15-02.17.59:283][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.15-02.17.59:283][  0]LightingResults: New page: Lighting Build
+[2018.04.15-02.17.59:331][  0]MapCheck: New page: Map Check
+[2018.04.15-02.17.59:331][  0]LightingResults: New page: Lighting Build
+[2018.04.15-02.17.59:895][  0]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-02.17.59:927][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.15-02.17.59:939][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.15-02.17.59:992][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.632ms to complete.
+[2018.04.15-02.17.59:992][  0]LogFileHelpers: Loading map 'MainLevel' took 0.710
+[2018.04.15-02.18.00:093][  0]LogCollectionManager: Loaded 0 collections in 0.001947 seconds
+[2018.04.15-02.18.00:179][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal/ClaudiaJob/Saved/Collections/' took 0.01s
+[2018.04.15-02.18.00:179][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal/ClaudiaJob/Content/Developers/Zowchi/Collections/' took 0.01s
+[2018.04.15-02.18.00:179][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal/ClaudiaJob/Content/Collections/' took 0.01s
+[2018.04.15-02.18.00:179][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.15-02.18.00:187][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2381 classes and 529 folders.
+[2018.04.15-02.18.00:265][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.15-02.18.00:304][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.15-02.18.00:403][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.15-02.18.00:468][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.15-02.18.00:471][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.15-02.18.00:473][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.15-02.18.00:479][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.04.15-02.18.00:527][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-02.18.00:640][  0]LogRenderer: Reallocating scene render targets to support 1060x772 Format 9 NumSamples 1 (Frame:1).
+[2018.04.15-02.18.00:840][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.15-02.18.00:840][  0]LogLoad: (Engine Initialization) Total time: 20.45 seconds
+[2018.04.15-02.18.00:840][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.15-02.18.00:840][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.15-02.18.00:858][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.15-02.18.00:885][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.04.15-02.18.00:938][  1]LogAssetRegistry: Asset discovery search completed in 13.1446 seconds
+[2018.04.15-02.18.00:940][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.15-02.18.00:940][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000275 seconds (updated 0 objects)
+[2018.04.15-02.18.01:878][ 49]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-02.18.05:307][249]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.15-02.18.05:627][249]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.04.15-02.18.06:570][249]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.15-02.20.03:054][229]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP)
+[2018.04.15-02.20.07:465][487]Cmd: EDIT COPY
+[2018.04.15-02.20.08:056][522]Cmd: EDIT PASTE
+[2018.04.15-02.21.13:510][410]Cmd: EDIT COPY
+[2018.04.15-02.21.13:749][424]Cmd: EDIT PASTE
+[2018.04.15-02.21.50:729][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.04.15-02.21.52:343][716]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP3)
+[2018.04.15-02.21.53:291][770]Cmd: EDIT COPY
+[2018.04.15-02.21.53:783][799]Cmd: EDIT PASTE
+[2018.04.15-02.24.05:888][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2018.04.15-02.24.07:505][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2018.04.15-02.24.08:352][820]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP4)
+[2018.04.15-02.24.09:344][877]Cmd: EDIT COPY
+[2018.04.15-02.24.09:729][900]Cmd: EDIT PASTE
+[2018.04.15-02.24.38:769][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2018.04.15-02.24.41:392][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2018.04.15-02.24.41:843][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2018.04.15-02.24.42:324][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2018.04.15-02.24.42:704][847]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP5)
+[2018.04.15-02.26.05:258][745]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor28)
+[2018.04.15-02.26.09:333][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-02.26.09:811][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-02.26.10:574][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-02.26.11:255][ 88]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP5)
+[2018.04.15-02.26.28:088][ 85]Cmd: EDIT COPY
+[2018.04.15-02.26.28:328][ 99]Cmd: EDIT PASTE
+[2018.04.15-02.26.47:652][229]Cmd: EDIT COPY
+[2018.04.15-02.26.48:057][253]Cmd: EDIT PASTE
+[2018.04.15-02.27.43:069][491]Cmd: EDIT COPY
+[2018.04.15-02.27.43:365][508]Cmd: EDIT PASTE
+[2018.04.15-02.28.38:098][738]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-02.28.38:147][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-02.28.38:182][738]LogFMOD: Creating runtime Studio System
+[2018.04.15-02.28.38:184][738]LogFMOD: Default sample rate = 48000
+[2018.04.15-02.28.38:184][738]LogFMOD: System sample rate = 48000
+[2018.04.15-02.28.38:185][738]LogFMOD: Matching system sample rate 48000
+[2018.04.15-02.28.38:193][738]LogFMOD: Loading Banks
+[2018.04.15-02.28.38:232][738]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-02.28.38:232][738]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-02.28.38:232][738]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-02.28.38:233][738]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-02.28.38:233][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-02.28.38:234][738]PIE: New page: PIE session: MainLevel (Apr 14, 2018, 12:28:38 PM)
+[2018.04.15-02.28.38:234][738]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-02.28.38:263][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029127s)
+[2018.04.15-02.28.38:263][738]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-02.28.38:264][738]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.04.15-02.28.38:264][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.030550s)
+[2018.04.15-02.28.38:288][738]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-02.28.38:293][738]LogInit: FAudioDevice initialized.
+[2018.04.15-02.28.38:339][738]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-02.28.38:351][738]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.14-19.28.38
+[2018.04.15-02.28.38:352][738]LogWorld: Bringing up level for play took: 0.008748
+[2018.04.15-02.28.38:402][738]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.15-02.28.38:404][738]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.079
+[2018.04.15-02.28.38:404][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-02.29.22:824][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-02.29.22:962][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-02.29.35:584][152]LogEditorViewport: Clicking on Actor (LMB): BlueCubeBP_C (BlueCubeBP2)
+[2018.04.15-02.29.42:817][576]Cmd: EDIT COPY
+[2018.04.15-02.29.45:007][707]Cmd: EDIT PASTE
+[2018.04.15-02.30.25:208][ 55]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.15-02.32.10:201][566]LogEditorViewport: Clicking on Actor (LMB): BlueCubeBP_C (BlueCubeBP5)
+[2018.04.15-02.32.13:548][758]Cmd: EDIT COPY
+[2018.04.15-02.32.13:765][771]Cmd: EDIT PASTE
+[2018.04.15-02.33.21:055][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-02.33.22:010][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-02.33.22:534][803]LogSavePackage: Save=492.55ms
+[2018.04.15-02.33.22:535][803]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelE6E41B544F3229F1A638DF9359AFBDD0.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-02.33.22:538][803]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-02.33.22:575][803]LogFileHelpers: Saving map 'MainLevel' took 0.629
+[2018.04.15-02.35.48:589][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-02.35.49:854][122]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP8)
+[2018.04.15-02.40.05:470][485]LogAudioEditor: Performing atomic reimport of [C:/Users/Zowchi/Desktop/voices/Audio Track-14.wav]
+[2018.04.15-02.40.05:474][485]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Zowchi/Desktop/voices/Audio Track-14.wav)
+[2018.04.15-02.40.05:485][485]LogAudioEditor: -- imported successfully
+[2018.04.15-02.40.05:518][485]LogAudioDerivedData: Display: Building compressed audio format OGG wave Audio_Track-14...
+[2018.04.15-02.40.05:630][485]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Voices/Audio_Track-14.Audio_Track-14.
+[2018.04.15-02.40.11:703][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-02.40.12:273][841]LogSavePackage: Save=527.38ms
+[2018.04.15-02.40.12:273][841]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel6A9C21E24381E0CDB5FACAA8778E2746.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-02.40.12:276][841]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-02.40.12:322][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel_BuiltData" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel_BuiltData.uasset" SILENT=true
+[2018.04.15-02.40.12:915][841]LogSavePackage: Save=564.03ms
+[2018.04.15-02.40.12:915][841]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel_BuiltData5C77BEAE4A6464F7F86374943B66A410.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel_BuiltData.uasset'
+[2018.04.15-02.40.12:917][841]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel_BuiltData.uasset
+[2018.04.15-02.40.14:491][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voices/Audio_Track-14" FILE="../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-14.uasset" SILENT=true
+[2018.04.15-02.40.14:518][929]LogSavePackage: Save=9.67ms
+[2018.04.15-02.40.14:518][929]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/Audio_Track-14009140684727A60ADD3F6182EFE8B813.tmp' to '../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-14.uasset'
+[2018.04.15-02.40.14:522][929]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/Voices/Audio_Track-14.uasset
+[2018.04.15-03.42.35:857][592]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-03.55.11:047][ 95]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.04.15-03.55.17:293][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-03.56.32:788][868]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP8)
+[2018.04.15-04.00.07:232][942]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.00.08:717][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.00.09:240][990]LogSavePackage: Save=487.70ms
+[2018.04.15-04.00.09:240][990]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel36AAC47C4F2FB2CA3281E18D4D035925.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.00.09:243][990]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.00.09:282][990]LogFileHelpers: Saving map 'MainLevel' took 0.629
+[2018.04.15-04.00.09:296][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.00.09:579][990]LogSavePackage: Save=266.51ms
+[2018.04.15-04.00.09:579][990]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnDF4E5E164A5081076D8A42A10AEF32B9.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.00.09:581][990]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.01.42:046][771]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.01.43:173][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.01.43:684][800]LogSavePackage: Save=485.23ms
+[2018.04.15-04.01.43:684][800]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelE35595494D8C2739EF6E7CA024986BFB.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.01.43:688][800]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.01.43:724][800]LogFileHelpers: Saving map 'MainLevel' took 0.616
+[2018.04.15-04.01.43:738][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.01.44:012][800]LogSavePackage: Save=264.98ms
+[2018.04.15-04.01.44:012][800]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnD4FFA48140FBE491064F3EB04CCDC990.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.01.44:015][800]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.02.09:156][155]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor14)
+[2018.04.15-04.02.11:296][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.02.11:329][241]LogFMOD: Creating runtime Studio System
+[2018.04.15-04.02.11:330][241]LogFMOD: Default sample rate = 48000
+[2018.04.15-04.02.11:331][241]LogFMOD: System sample rate = 48000
+[2018.04.15-04.02.11:331][241]LogFMOD: Matching system sample rate 48000
+[2018.04.15-04.02.11:338][241]LogFMOD: Loading Banks
+[2018.04.15-04.02.11:378][241]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-04.02.11:378][241]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-04.02.11:379][241]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-04.02.11:379][241]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-04.02.11:379][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-04.02.11:379][241]PIE: New page: PIE session: MainLevel (Apr 14, 2018, 2:02:11 PM)
+[2018.04.15-04.02.11:379][241]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-04.02.11:408][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028245s)
+[2018.04.15-04.02.11:409][241]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-04.02.11:409][241]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.04.15-04.02.11:410][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.029851s)
+[2018.04.15-04.02.11:431][241]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-04.02.11:435][241]LogInit: FAudioDevice initialized.
+[2018.04.15-04.02.11:468][241]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-04.02.11:479][241]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.14-21.02.11
+[2018.04.15-04.02.11:480][241]LogWorld: Bringing up level for play took: 0.008085
+[2018.04.15-04.02.11:482][241]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.158
+[2018.04.15-04.02.11:482][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.02.13:545][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.02.13:702][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.02.16:600][456]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-04.02.16:626][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.02.16:669][456]LogFMOD: Creating runtime Studio System
+[2018.04.15-04.02.16:671][456]LogFMOD: Default sample rate = 48000
+[2018.04.15-04.02.16:671][456]LogFMOD: System sample rate = 48000
+[2018.04.15-04.02.16:671][456]LogFMOD: Matching system sample rate 48000
+[2018.04.15-04.02.16:677][456]LogFMOD: Loading Banks
+[2018.04.15-04.02.16:718][456]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-04.02.16:718][456]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-04.02.16:719][456]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-04.02.16:719][456]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-04.02.16:719][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-04.02.16:719][456]PIE: New page: PIE session: MainLevel (Apr 14, 2018, 2:02:16 PM)
+[2018.04.15-04.02.16:719][456]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-04.02.16:746][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026941s)
+[2018.04.15-04.02.16:747][456]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-04.02.16:747][456]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.04.15-04.02.16:747][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.028150s)
+[2018.04.15-04.02.16:769][456]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-04.02.16:773][456]LogInit: FAudioDevice initialized.
+[2018.04.15-04.02.16:811][456]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-04.02.16:820][456]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.14-21.02.16
+[2018.04.15-04.02.16:821][456]LogWorld: Bringing up level for play took: 0.006796
+[2018.04.15-04.02.16:822][456]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.498
+[2018.04.15-04.02.16:823][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.03.48:332][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.03.48:480][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.03.51:029][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.03.51:664][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.03.52:443][869]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP8)
+[2018.04.15-04.03.59:823][250]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.15-04.03.59:849][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.03.59:879][250]LogFMOD: Creating runtime Studio System
+[2018.04.15-04.03.59:880][250]LogFMOD: Default sample rate = 48000
+[2018.04.15-04.03.59:880][250]LogFMOD: System sample rate = 48000
+[2018.04.15-04.03.59:880][250]LogFMOD: Matching system sample rate 48000
+[2018.04.15-04.03.59:887][250]LogFMOD: Loading Banks
+[2018.04.15-04.03.59:929][250]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.04.15-04.03.59:929][250]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file '../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.04.15-04.03.59:929][250]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.04.15-04.03.59:930][250]LogFMOD: Warning: Failed to bank: ../../../../../Unreal/ClaudiaJob/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.04.15-04.03.59:930][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.15-04.03.59:930][250]PIE: New page: PIE session: MainLevel (Apr 14, 2018, 2:03:59 PM)
+[2018.04.15-04.03.59:931][250]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2018.04.15-04.03.59:959][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028071s)
+[2018.04.15-04.03.59:959][250]LogAIModule: Creating AISystem for world MainLevel
+[2018.04.15-04.03.59:960][250]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2018.04.15-04.03.59:960][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.029393s)
+[2018.04.15-04.03.59:982][250]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.15-04.03.59:986][250]LogInit: FAudioDevice initialized.
+[2018.04.15-04.04.00:021][250]LogLoad: Game class is 'MainGameMode_C'
+[2018.04.15-04.04.00:032][250]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.04.14-21.04.00
+[2018.04.15-04.04.00:032][250]LogWorld: Bringing up level for play took: 0.007319
+[2018.04.15-04.04.00:034][250]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.29
+[2018.04.15-04.04.00:034][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.05.12:825][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.05.12:990][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2018.04.15-04.06.08:095][553]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.06.09:505][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.06.09:788][606]LogSavePackage: Save=268.00ms
+[2018.04.15-04.06.09:788][606]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn5142E80C48232750C00107946C0E32D9.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.06.09:791][606]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.06.26:373][573]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.06.28:043][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.06.28:557][637]LogSavePackage: Save=481.35ms
+[2018.04.15-04.06.28:558][637]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel7C9F01BE4583667DC26ED0A9558B1C25.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.06.28:561][637]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.06.28:597][637]LogFileHelpers: Saving map 'MainLevel' took 0.617
+[2018.04.15-04.06.28:610][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.06.28:887][637]LogSavePackage: Save=267.52ms
+[2018.04.15-04.06.28:887][637]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn04EF7EB345DF74A9CD86CC83F3E8A5A2.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.06.28:890][637]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.07.54:324][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.07.57:717][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.07.59:963][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.08.00:938][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.08.01:484][116]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP8)
+[2018.04.15-04.08.05:277][324]LogEditorViewport: Clicking Background
+[2018.04.15-04.08.27:416][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor32)
+[2018.04.15-04.08.50:294][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2018.04.15-04.08.59:707][439]Cmd: TRANSACTION UNDO
+[2018.04.15-04.08.59:707][439]LogEditorTransaction: Undo Scale Actors
+[2018.04.15-04.09.02:185][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.10.44:905][918]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.04.15-04.10.46:244][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.15-04.10.46:838][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.15-04.10.49:292][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.15-04.10.51:451][254]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP2)
+[2018.04.15-04.11.06:506][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2018.04.15-04.11.06:941][ 39]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP3)
+[2018.04.15-04.11.17:538][562]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP4)
+[2018.04.15-04.11.38:764][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor54)
+[2018.04.15-04.11.40:200][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor54)
+[2018.04.15-04.11.40:886][755]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP7)
+[2018.04.15-04.11.48:402][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2018.04.15-04.11.49:084][165]LogEditorViewport: Clicking on Actor (LMB): BlueCubeBP_C (BlueCubeBP7)
+[2018.04.15-04.12.23:548][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.12.24:109][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.12.25:260][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.12.26:043][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.04.15-04.12.26:575][ 60]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP8)
+[2018.04.15-04.13.20:941][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor32)
+[2018.04.15-04.13.23:430][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.13.23:948][921]LogSavePackage: Save=483.72ms
+[2018.04.15-04.13.23:948][921]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelDDD539F04567058DB3D5DFAD451B0DFB.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.13.23:952][921]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.13.23:990][921]LogFileHelpers: Saving map 'MainLevel' took 0.626
+[2018.04.15-04.18.00:082][999]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.18.01:463][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.18.01:979][ 58]LogSavePackage: Save=490.64ms
+[2018.04.15-04.18.01:980][ 58]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel75465AEE4F3FD5F9049208BD27359C4A.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.18.01:983][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.18.02:020][ 58]LogFileHelpers: Saving map 'MainLevel' took 0.620
+[2018.04.15-04.18.02:034][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.18.02:323][ 58]LogSavePackage: Save=274.14ms
+[2018.04.15-04.18.02:323][ 58]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnEE5715684811B00D64CD7D8182C58FD3.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.18.02:326][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.18.02:329][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.18.02:437][ 58]LogSavePackage: Save=94.72ms
+[2018.04.15-04.18.02:437][ 58]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode697E631D4231B5E803BC2C9CC3DCB853.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.18.02:440][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.18.46:917][460]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.19.10:772][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.19.11:309][734]LogSavePackage: Save=501.97ms
+[2018.04.15-04.19.11:309][734]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelEF2E55C64B0696B44521D59761D73295.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.19.11:313][734]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.19.11:349][734]LogFileHelpers: Saving map 'MainLevel' took 0.644
+[2018.04.15-04.19.11:363][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.19.11:649][734]LogSavePackage: Save=276.57ms
+[2018.04.15-04.19.11:649][734]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn201CF5F54560D081557AF4BC1DE3568B.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.19.11:652][734]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.19.59:541][257]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.20.01:350][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.20.01:861][322]LogSavePackage: Save=486.67ms
+[2018.04.15-04.20.01:862][322]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelCD7458A343E5738D5DEF15811C08AE95.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.20.01:865][322]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.20.01:901][322]LogFileHelpers: Saving map 'MainLevel' took 0.616
+[2018.04.15-04.20.01:914][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.20.02:196][322]LogSavePackage: Save=273.01ms
+[2018.04.15-04.20.02:196][322]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnCED2E4DB40EFC963DF4811BFE72B1E4B.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.20.02:198][322]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.22.01:809][933]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.22.17:941][863]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.22.19:942][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.22.20:452][961]LogSavePackage: Save=484.16ms
+[2018.04.15-04.22.20:452][961]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel11D5C8F44783036CEE9B5EAF55E6D889.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.22.20:456][961]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.22.20:492][961]LogFileHelpers: Saving map 'MainLevel' took 0.614
+[2018.04.15-04.22.20:495][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.22.20:601][961]LogSavePackage: Save=97.69ms
+[2018.04.15-04.22.20:601][961]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode6F0D3A9D478AA0078D1856B5F4A0266F.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.22.20:604][961]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.27.36:681][221]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.28.10:730][186]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.15-04.28.17:360][554]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.28.34:405][492]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.28.35:219][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.28.35:744][515]LogSavePackage: Save=487.57ms
+[2018.04.15-04.28.35:744][515]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelA854217345F5A0CEE5F87FB55B017454.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.28.35:747][515]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.28.35:786][515]LogFileHelpers: Saving map 'MainLevel' took 0.635
+[2018.04.15-04.28.35:791][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.28.35:908][515]LogSavePackage: Save=104.70ms
+[2018.04.15-04.28.35:908][515]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameModeE861BE0040EF6C8124B9E795DFB1ADE2.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.28.35:912][515]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.28.58:022][733]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.29.07:784][246]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.29.36:115][802]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.29.37:331][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.29.37:855][851]LogSavePackage: Save=493.99ms
+[2018.04.15-04.29.37:855][851]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel96A0690D4CF2CA851BA15BB8032E6C86.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.29.37:858][851]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.29.37:893][851]LogFileHelpers: Saving map 'MainLevel' took 0.625
+[2018.04.15-04.29.37:895][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.29.38:009][851]LogSavePackage: Save=105.05ms
+[2018.04.15-04.29.38:009][851]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode4E35A2F84280C61EB13563A7CAB19F19.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.29.38:011][851]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.31.20:846][914]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.32.44:169][725]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.32.46:785][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.32.47:303][840]LogSavePackage: Save=491.31ms
+[2018.04.15-04.32.47:303][840]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel1F6009554C839081EF7AA1BC5D064D0D.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.32.47:306][840]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.32.47:343][840]LogFileHelpers: Saving map 'MainLevel' took 0.623
+[2018.04.15-04.32.47:346][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.32.47:460][840]LogSavePackage: Save=105.64ms
+[2018.04.15-04.32.47:460][840]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode0E23658D4F29AEF87683AA8C63575F39.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.32.47:463][840]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.32.56:389][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.32.56:503][353]LogSavePackage: Save=105.14ms
+[2018.04.15-04.32.56:504][353]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameModeEE089A254C23FA67ECFDF090A3F7C8CE.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.32.56:506][353]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.33.17:533][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.33.17:649][597]LogSavePackage: Save=108.15ms
+[2018.04.15-04.33.17:649][597]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameModeBF0F9750410306A97AF439B706DA1C31.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.33.17:652][597]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.34.28:822][820]LogEditorTransaction: Undo Remove Graph
+[2018.04.15-04.34.49:111][984]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.34.50:245][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.34.50:771][ 29]LogSavePackage: Save=491.88ms
+[2018.04.15-04.34.50:772][ 29]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel3101F66345CBD63418510FBED7C16FC8.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.34.50:775][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.34.50:814][ 29]LogFileHelpers: Saving map 'MainLevel' took 0.632
+[2018.04.15-04.34.50:817][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.34.50:940][ 29]LogSavePackage: Save=109.25ms
+[2018.04.15-04.34.50:940][ 29]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode5E29307C4AC758FC698D4D8249E0C59F.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.34.50:942][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.35.07:802][ 22]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.35.21:568][811]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.35.33:574][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.35.34:092][471]LogSavePackage: Save=491.46ms
+[2018.04.15-04.35.34:092][471]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel2041143244412CFCDCE5C99F8D4774DD.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.35.34:096][471]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.35.34:133][471]LogFileHelpers: Saving map 'MainLevel' took 0.623
+[2018.04.15-04.35.34:135][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.35.34:251][471]LogSavePackage: Save=107.70ms
+[2018.04.15-04.35.34:251][471]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode80887DF44FF598977F485689284F5A37.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.35.34:254][471]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.36.55:952][526]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.04.15-04.39.12:143][283]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.39.13:496][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.39.13:789][326]LogSavePackage: Save=277.77ms
+[2018.04.15-04.39.13:789][326]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnB37BD254426B32A1508B8189AC24C5B0.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.39.13:792][326]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.41.42:887][724]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.41.49:664][ 47]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.41.51:446][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.41.51:970][108]LogSavePackage: Save=486.87ms
+[2018.04.15-04.41.51:970][108]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelDD6E01984F9AEEDF0166968C205061C5.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.41.51:973][108]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.41.52:010][108]LogFileHelpers: Saving map 'MainLevel' took 0.629
+[2018.04.15-04.41.52:022][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.41.52:311][108]LogSavePackage: Save=280.43ms
+[2018.04.15-04.41.52:311][108]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnD87B51204EEDC904DB2853AF16956C28.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.41.52:314][108]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.42.00:260][513]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.42.01:802][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.42.02:314][560]LogSavePackage: Save=485.28ms
+[2018.04.15-04.42.02:314][560]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelD1C4D96949B902231FBAEEBA257FD813.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.42.02:317][560]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.42.02:353][560]LogFileHelpers: Saving map 'MainLevel' took 0.612
+[2018.04.15-04.42.02:365][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.42.02:652][560]LogSavePackage: Save=278.29ms
+[2018.04.15-04.42.02:652][560]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn402D6BCA496369F93B035AB8E6D90652.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.42.02:655][560]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.43.45:987][703]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.43.46:793][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.43.47:310][711]LogSavePackage: Save=489.78ms
+[2018.04.15-04.43.47:310][711]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel1DDD03604DB91492621F2BB412FB6721.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.43.47:313][711]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.43.47:349][711]LogFileHelpers: Saving map 'MainLevel' took 0.621
+[2018.04.15-04.43.47:362][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.43.47:649][711]LogSavePackage: Save=278.44ms
+[2018.04.15-04.43.47:649][711]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnD059B8BE41B3FDCB95292E9CB4ACF6C7.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.43.47:652][711]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.46.15:267][684]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.46.32:548][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.46.33:068][655]LogSavePackage: Save=491.62ms
+[2018.04.15-04.46.33:068][655]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelF32CFEAE4D73EA466B87359F94658489.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.46.33:071][655]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.46.33:108][655]LogFileHelpers: Saving map 'MainLevel' took 0.624
+[2018.04.15-04.46.33:122][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.46.33:414][655]LogSavePackage: Save=279.70ms
+[2018.04.15-04.46.33:414][655]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn3CF64FD540AE4F6BFACF20BD1D526319.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.46.33:417][655]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.46.34:498][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.46.34:623][715]LogSavePackage: Save=111.02ms
+[2018.04.15-04.46.34:623][715]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameModeB0A8BDB844A977CD66CA03A1204120BB.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.46.34:625][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.46.36:031][795]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.46.38:694][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.46.39:205][928]LogSavePackage: Save=483.13ms
+[2018.04.15-04.46.39:206][928]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel1291A63B4FE563337F8638A79E309FAB.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.46.39:208][928]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.46.39:248][928]LogFileHelpers: Saving map 'MainLevel' took 0.615
+[2018.04.15-04.48.06:604][752]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.48.16:418][274]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.48.17:147][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.48.17:671][279]LogSavePackage: Save=487.57ms
+[2018.04.15-04.48.17:671][279]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel9609B7334621E0CFD1D4B9AE655AAD63.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.48.17:674][279]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.48.17:710][279]LogFileHelpers: Saving map 'MainLevel' took 0.627
+[2018.04.15-04.48.17:723][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.48.18:018][279]LogSavePackage: Save=285.79ms
+[2018.04.15-04.48.18:018][279]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnF50B2FF547817AB95F8EE2B777393380.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.48.18:020][279]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.49.34:340][567]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.49.35:378][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.49.35:896][586]LogSavePackage: Save=490.07ms
+[2018.04.15-04.49.35:896][586]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelC7C7349F4125D8207E67DCB82AFBE283.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.49.35:899][586]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.49.35:935][586]LogFileHelpers: Saving map 'MainLevel' took 0.622
+[2018.04.15-04.49.35:948][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.49.36:241][586]LogSavePackage: Save=284.31ms
+[2018.04.15-04.49.36:241][586]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn6DA915BA4705DAEE5BF89098C45D24FA.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.49.36:244][586]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.50.33:084][379]Cmd: EDIT COPY
+[2018.04.15-04.50.33:286][389]Cmd: EDIT PASTE
+[2018.04.15-04.51.58:253][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.51.58:775][526]LogSavePackage: Save=494.68ms
+[2018.04.15-04.51.58:776][526]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel6BEDE7814761ABBF60CC2F88F8BBF8FC.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.51.58:779][526]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.51.58:816][526]LogFileHelpers: Saving map 'MainLevel' took 0.627
+[2018.04.15-04.52.03:749][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.52.04:267][745]LogSavePackage: Save=489.88ms
+[2018.04.15-04.52.04:267][745]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelECD35F7344ED9DE3766EE88F1AD4C3DF.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.52.04:271][745]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.52.04:306][745]LogFileHelpers: Saving map 'MainLevel' took 0.621
+[2018.04.15-04.53.38:262][200]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.53.39:345][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.53.39:872][217]LogSavePackage: Save=490.85ms
+[2018.04.15-04.53.39:873][217]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel0C7B69D04A176391A9B3F1AF658960FE.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.53.39:876][217]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.53.39:914][217]LogFileHelpers: Saving map 'MainLevel' took 0.635
+[2018.04.15-04.53.39:928][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.53.40:225][217]LogSavePackage: Save=284.80ms
+[2018.04.15-04.53.40:225][217]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn68565568433F40B0F94652BF8BA17E9A.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.53.40:228][217]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.56.39:105][ 63]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.56.40:153][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.56.40:672][ 78]LogSavePackage: Save=490.46ms
+[2018.04.15-04.56.40:672][ 78]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel25974FAE4A61728C261273897F425624.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.56.40:675][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.56.40:711][ 78]LogFileHelpers: Saving map 'MainLevel' took 0.621
+[2018.04.15-04.56.40:726][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.56.41:026][ 78]LogSavePackage: Save=291.72ms
+[2018.04.15-04.56.41:027][ 78]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn2D3E7B7040563A9C47BC06BF6750DE01.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.56.41:029][ 78]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.56.56:217][956]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.56.56:841][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.56.57:356][968]LogSavePackage: Save=487.75ms
+[2018.04.15-04.56.57:356][968]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel7576235C47620790928EADA4F9E5F823.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.56.57:359][968]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.56.57:398][968]LogFileHelpers: Saving map 'MainLevel' took 0.620
+[2018.04.15-04.56.57:400][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.56.57:526][968]LogSavePackage: Save=112.73ms
+[2018.04.15-04.56.57:526][968]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode989030544C21E0B0C595ACBFDC6FE621.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.56.57:529][968]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.57.18:322][  6]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-04.58.39:241][ 96]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-04.58.40:148][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-04.58.40:683][125]LogSavePackage: Save=496.37ms
+[2018.04.15-04.58.40:683][125]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel8FB9A3104AF44B955920A0992E32FEF0.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-04.58.40:686][125]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-04.58.40:723][125]LogFileHelpers: Saving map 'MainLevel' took 0.635
+[2018.04.15-04.58.40:737][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-04.58.41:039][125]LogSavePackage: Save=288.63ms
+[2018.04.15-04.58.41:039][125]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnB6DEE34A461EB6A52DFDAFA798262FA3.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-04.58.41:042][125]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-04.58.41:046][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-04.58.41:163][125]LogSavePackage: Save=109.59ms
+[2018.04.15-04.58.41:163][125]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode3C7A99B64BBA51695C5B20B4A8BFE1D0.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-04.58.41:166][125]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-04.59.45:957][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor59)
+[2018.04.15-04.59.46:797][361]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP7)
+[2018.04.15-04.59.49:425][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor59)
+[2018.04.15-04.59.53:282][701]LogEditorViewport: Clicking on Actor (LMB): BlueCubeBP_C (BlueCubeBP7)
+[2018.04.15-05.00.03:246][205]LogEditorViewport: Clicking on Actor (LMB): BlueCubeBP_C (BlueCubeBP6)
+[2018.04.15-05.01.17:035][988]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-05.01.17:154][988]LogBlueprint: Error: [Compiler PlayerPawn] This blueprint (self) is not a MainGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.15-05.01.17:291][988]LogBlueprint: Warning: [Compiler PlayerPawn] [9816.90] Compile of PlayerPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 256 ms] (/Game/PlayerPawn.PlayerPawn)
+[2018.04.15-05.02.10:940][593]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-05.02.12:476][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.02.12:996][654]LogSavePackage: Save=492.48ms
+[2018.04.15-05.02.12:997][654]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel06406A6041971647D2F76B8E79A3CD69.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.02.13:000][654]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.02.13:041][654]LogFileHelpers: Saving map 'MainLevel' took 0.630
+[2018.04.15-05.02.13:053][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-05.02.13:359][654]LogSavePackage: Save=297.19ms
+[2018.04.15-05.02.13:359][654]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn15670114452ED445454DE5AA80E0EFDF.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-05.02.13:362][654]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-05.02.24:376][225]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-05.02.25:721][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.02.26:244][263]LogSavePackage: Save=495.71ms
+[2018.04.15-05.02.26:244][263]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel5611957448047503055381B9123B0B04.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.02.26:248][263]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.02.26:284][263]LogFileHelpers: Saving map 'MainLevel' took 0.627
+[2018.04.15-05.08.43:613][691]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-05.08.46:272][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.08.46:807][798]LogSavePackage: Save=497.94ms
+[2018.04.15-05.08.46:807][798]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel995618E3484F8F78293C75917183ADA1.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.08.46:810][798]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.08.46:848][798]LogFileHelpers: Saving map 'MainLevel' took 0.644
+[2018.04.15-05.08.46:862][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-05.08.47:171][798]LogSavePackage: Save=295.61ms
+[2018.04.15-05.08.47:171][798]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawnCE1D05D74DDD29EA703EB8807A909B0A.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-05.08.47:174][798]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-05.12.29:713][345]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-05.12.32:343][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.12.32:867][459]LogSavePackage: Save=495.95ms
+[2018.04.15-05.12.32:867][459]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelC3C5EFF34D2710AFB76F64A30BEB4B4E.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.12.32:870][459]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.12.32:908][459]LogFileHelpers: Saving map 'MainLevel' took 0.628
+[2018.04.15-05.12.32:922][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-05.12.33:227][459]LogSavePackage: Save=297.86ms
+[2018.04.15-05.12.33:228][459]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn65ECFD2F436B8C1EF24C808A3E9D4DFA.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-05.12.33:230][459]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-05.13.49:905][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-05.13.50:034][391]LogSavePackage: Save=112.57ms
+[2018.04.15-05.13.50:034][391]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode419DF3B3480FFDEF00275D9F9A6D0D6A.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-05.13.50:037][391]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-05.13.54:704][661]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-05.15.09:871][ 13]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP2)
+[2018.04.15-05.15.19:604][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.15.20:146][575]LogSavePackage: Save=504.64ms
+[2018.04.15-05.15.20:146][575]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelB35EC2F7487D1F27B97BB3B1132CDC8D.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.15.20:149][575]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.15.20:186][575]LogFileHelpers: Saving map 'MainLevel' took 0.650
+[2018.04.15-05.15.40:689][760]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP3)
+[2018.04.15-05.16.33:455][394]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP4)
+[2018.04.15-05.16.36:929][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.15-05.16.37:049][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.15-05.16.37:161][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.15-05.18.43:988][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-05.18.45:841][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor29)
+[2018.04.15-05.18.46:508][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor29)
+[2018.04.15-05.18.47:124][290]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP5)
+[2018.04.15-05.19.02:652][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-05.19.03:217][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-05.19.04:463][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-05.19.05:324][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-05.19.06:612][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-05.19.07:509][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2018.04.15-05.19.08:191][540]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP6)
+[2018.04.15-05.19.26:406][608]LogEditorViewport: Clicking on Actor (LMB): BlueCubeBP_C (BlueCubeBP7)
+[2018.04.15-05.19.30:198][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SphereMesh9)
+[2018.04.15-05.19.30:797][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SphereMesh9)
+[2018.04.15-05.19.31:661][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SphereMesh9)
+[2018.04.15-05.19.32:326][951]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP7)
+[2018.04.15-05.19.32:823][978]LogEditorViewport: Clicking on Actor (LMB): VoiceTriggerBP_C (VoiceTriggerBP7)
+[2018.04.15-05.20.53:866][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.20.54:428][774]LogSavePackage: Save=525.91ms
+[2018.04.15-05.20.54:429][774]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel5189C9E84F8BAFDF790F6D978AC03CD9.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.20.54:433][774]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.20.54:472][774]LogFileHelpers: Saving map 'MainLevel' took 0.676
+[2018.04.15-05.23.42:110][982]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-05.24.00:436][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.24.00:961][ 25]LogSavePackage: Save=500.82ms
+[2018.04.15-05.24.00:962][ 25]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel9327088D484787EC78205BBB90BC16B1.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.24.00:966][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.24.01:003][ 25]LogFileHelpers: Saving map 'MainLevel' took 0.632
+[2018.04.15-05.24.01:006][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-05.24.01:131][ 25]LogSavePackage: Save=111.76ms
+[2018.04.15-05.24.01:131][ 25]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameModeEF65AD114F9631F0642058A9FF1EC513.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-05.24.01:134][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-05.24.33:262][551]BlueprintLog: New page: Compile PlayerPawn
+[2018.04.15-05.24.35:664][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.24.36:184][646]LogSavePackage: Save=492.14ms
+[2018.04.15-05.24.36:184][646]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel52DB6B2147A49BC1F2B2B9ADF3913616.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.24.36:188][646]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.24.36:225][646]LogFileHelpers: Saving map 'MainLevel' took 0.625
+[2018.04.15-05.24.36:239][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPawn" FILE="../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset" SILENT=true
+[2018.04.15-05.24.36:549][646]LogSavePackage: Save=297.36ms
+[2018.04.15-05.24.36:549][646]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/PlayerPawn07E6E92F4C068E8A2E5A70B50C958A71.tmp' to '../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset'
+[2018.04.15-05.24.36:552][646]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/PlayerPawn.uasset
+[2018.04.15-05.27.52:225][541]MapCheck: New page: Map Check
+[2018.04.15-05.27.52:243][541]LightingResults: New page: Lighting Build - Apr 14, 2018, 3:27:52 PM
+[2018.04.15-05.27.52:323][541]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.15-05.27.52:379][541]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.15-05.27.52:401][541]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.15-05.27.53:437][541]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.15-05.27.53:438][541]LogSwarmInterface: [TryOpenConnection] Local Process ID is 25520
+[2018.04.15-05.27.55:848][541]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.04.15-05.27.55:853][541]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.15-05.27.55:853][541]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.15-05.27.55:854][541]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.15-05.27.55:854][541]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.15-05.27.55:854][541]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.15-05.27.56:006][541]LogEditorBuildUtils: Build time 0:03
+[2018.04.15-05.29.29:558][ 90]BlueprintLog: New page: Compile MainGameMode
+[2018.04.15-05.29.31:427][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.29.32:107][129]LogSavePackage: Save=632.89ms
+[2018.04.15-05.29.32:107][129]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel827CB7524EE4A7FB95BC0CACD13D5620.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.29.32:111][129]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.29.32:161][129]LogFileHelpers: Saving map 'MainLevel' took 0.830
+[2018.04.15-05.29.32:165][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset" SILENT=true
+[2018.04.15-05.29.32:322][129]LogSavePackage: Save=139.45ms
+[2018.04.15-05.29.32:322][129]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainGameMode1365CE1645A0BC860AACC78644D7C40A.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset'
+[2018.04.15-05.29.32:325][129]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainGameMode.uasset
+[2018.04.15-05.33.47:115][848]Job is a success!
+[2018.04.15-05.33.47:297][849]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.098s
+[2018.04.15-05.33.47:298][849]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.04.15-05.33.47:298][849]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 2.7Mb
+[2018.04.15-05.33.47:298][849]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.15-05.33.47:298][849]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2018.04.15-05.33.47:298][849]LogVolumetricLightmapImport:          1: 5.9% covering 7.8% of volume
+[2018.04.15-05.33.47:298][849]LogVolumetricLightmapImport:          2: 93.0% covering 1.9% of volume
+[2018.04.15-05.33.48:632][849]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.04.15-05.33.48:632][849]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.04.15-05.33.48:632][849]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.04.15-05.33.48:632][849]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.04.15-05.33.48:632][849]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.04.15-05.33.48:633][849]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.04.15-05.33.48:633][849]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.04.15-05.33.48:633][849]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.04.15-05.33.48:633][849]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.04.15-05.33.48:633][849]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.04.15-05.33.48:832][849]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2018.04.15-05.33.48:832][849]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X128)
+[2018.04.15-05.33.48:832][849]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2018.04.15-05.33.48:904][849]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2018.04.15-05.33.48:967][849]Lightmass on LAPTOP-PLBLP26D: 5:51 min total, 239 ms importing, 30 ms setup, 1:20 min photons, 4:30 min processing, 0 ms extra exporting [192/192 mappings]. Threads: 31:36 min total, 23:06 min processing.
+[2018.04.15-05.33.49:126][849]LogStaticLightingSystem: Illumination: 5:56 min (1.14 sec encoding lightmaps, 266 ms encoding shadowmaps)
+[2018.04.15-05.33.49:127][849]LogStaticLightingSystem: Lightmap texture memory:  10.0 MB (10.0 MB streaming, 0.0 MB non-streaming), 10 textures
+[2018.04.15-05.33.49:127][849]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.04.15-05.33.49:919][849]DumpUnbuiltLightIteractions
+[2018.04.15-05.33.49:919][849]Lights with unbuilt interactions: 0
+[2018.04.15-05.33.49:919][849]
+[2018.04.15-05.33.49:919][849]Primitives with unbuilt interactions: 0
+[2018.04.15-05.33.49:940][850]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.15-05.33.49:941][850]MapCheck: New page: MainLevel - Apr 14, 2018, 3:33:49 PM
+[2018.04.15-05.33.50:027][850]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.941ms to complete.
+[2018.04.15-05.39.22:520][497]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/LightingAndShadows/Lightmass/Basics/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2018.04.15-05.39.48:236][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/MainLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.15-05.39.49:752][591]LogSavePackage: Save=1499.81ms
+[2018.04.15-05.39.49:752][591]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel_Auto10EE047F04D1F92A419E855BC3A871219.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/MainLevel_Auto1.umap'
+[2018.04.15-05.39.49:754][591]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/MainLevel_Auto1.umap
+[2018.04.15-05.39.49:760][591]LogSlate: Took 0.001548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.15-05.39.49:762][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 1.548
+[2018.04.15-05.39.49:763][591]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.548
+[2018.04.15-05.39.49:766][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainLevel_BuiltData] ([1] browsable assets)...
+[2018.04.15-05.39.49:766][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainLevel_BuiltData]
+[2018.04.15-05.39.49:766][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel_BuiltData" FILE="../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/MainLevel_BuiltData_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.15-05.39.49:859][591]LogSavePackage: Save=64.99ms
+[2018.04.15-05.39.49:859][591]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel_BuiltData_Auto1AE1D80BC40933198FFEC75A4194AE1DF.tmp' to '../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/MainLevel_BuiltData_Auto1.uasset'
+[2018.04.15-05.39.49:860][591]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Saved/Autosaves/Game/MainLevel_BuiltData_Auto1.uasset
+[2018.04.15-05.39.49:860][591]LogFileHelpers: Auto-saving content packages took 0.095
+[2018.04.15-05.41.48:833][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.15-05.41.50:147][691]LogSavePackage: Save=1286.95ms
+[2018.04.15-05.41.50:147][691]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevelA263B2344CD4EB925A056BBE950F51EA.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap'
+[2018.04.15-05.41.50:153][691]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel.umap
+[2018.04.15-05.41.50:191][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel_BuiltData" FILE="../../../../../Unreal/ClaudiaJob/Content/MainLevel_BuiltData.uasset" SILENT=true
+[2018.04.15-05.41.50:624][691]LogSavePackage: Save=424.58ms
+[2018.04.15-05.41.50:624][691]LogSavePackage: Moving '../../../../../Unreal/ClaudiaJob/Saved/MainLevel_BuiltData5E80C48A47DFF68BC59BA9B61B0A7DD8.tmp' to '../../../../../Unreal/ClaudiaJob/Content/MainLevel_BuiltData.uasset'
+[2018.04.15-05.41.50:628][691]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal/ClaudiaJob/Content/MainLevel_BuiltData.uasset
+[2018.04.15-05.41.59:911][ 80]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.15-05.42.02:082][189]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.15-05.42.02:354][190]Cmd: QUIT_EDITOR
+[2018.04.15-05.42.02:577][190]LogExit: Preparing to exit.
+[2018.04.15-05.42.03:749][190]LogDirectoryWatcher: A directory notification for 'C:/Unreal/ClaudiaJob/Content/' was aborted.
+[2018.04.15-05.42.03:881][190]LogExit: Editor shut down
+[2018.04.15-05.42.03:920][190]LogExit: Transaction tracking system shut down
+[2018.04.15-05.42.04:048][190]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.15-05.42.04:048][190]LogDirectoryWatcher: A directory notification for '../../../../../Unreal/ClaudiaJob/Content/' was aborted.
+[2018.04.15-05.42.04:048][190]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.15-05.42.04:048][190]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.15-05.42.04:048][190]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.15-05.42.04:048][190]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/FMODStudio/Content/' was aborted.
+[2018.04.15-05.42.04:048][190]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.15-05.42.04:048][190]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.15-05.42.04:218][190]LogExit: Object subsystem successfully closed.
+[2018.04.15-05.42.04:265][190]LogD3D11RHI: Shutdown
+[2018.04.15-05.42.04:265][190]LogD3D11RHI: CleanupD3DDevice
+[2018.04.15-05.42.04:273][190]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.15-05.42.04:299][190]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2018.04.15-05.42.04:299][190]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.04.15-05.42.04:299][190]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (554)
+[2018.04.15-05.42.04:299][190]LogModuleManager: Shutting down and abandoning module SceneOutliner (552)
+[2018.04.15-05.42.04:299][190]LogModuleManager: Shutting down and abandoning module AddContentDialog (550)
+[2018.04.15-05.42.04:299][190]LogDirectoryWatcher: A directory notification for 'C:/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.15-05.42.04:319][190]LogModuleManager: Shutting down and abandoning module WidgetCarousel (549)
+[2018.04.15-05.42.04:319][190]LogModuleManager: Shutting down and abandoning module EditorWidgets (546)
+[2018.04.15-05.42.04:319][190]LogModuleManager: Shutting down and abandoning module CollectionManager (544)
+[2018.04.15-05.42.04:319][190]LogDirectoryWatcher: A directory notification for 'C:/Unreal/ClaudiaJob/Content/Collections/' was aborted.
+[2018.04.15-05.42.04:319][190]LogDirectoryWatcher: A directory notification for 'C:/Unreal/ClaudiaJob/Content/Developers/Zowchi/Collections/' was aborted.
+[2018.04.15-05.42.04:319][190]LogDirectoryWatcher: A directory notification for 'C:/Unreal/ClaudiaJob/Saved/Collections/' was aborted.
+[2018.04.15-05.42.04:319][190]LogModuleManager: Shutting down and abandoning module StatsViewer (542)
+[2018.04.15-05.42.04:319][190]LogModuleManager: Shutting down and abandoning module FoliageEdit (540)
+[2018.04.15-05.42.04:319][190]LogModuleManager: Shutting down and abandoning module LandscapeEditor (538)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module MeshPaintMode (536)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (534)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module ActorPickerMode (532)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module GeometryMode (530)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module TextureAlignMode (528)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module BspMode (526)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (524)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module HardwareSurvey (522)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (520)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module AutomationWorker (518)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (516)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (514)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module PlacementMode (513)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (510)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (508)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (506)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (504)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (502)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (500)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (498)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (496)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (494)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module CharacterAI (492)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module AudioCapture (490)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module SequenceRecorder (489)
+[2018.04.15-05.42.04:320][190]LogModuleManager: Shutting down and abandoning module SmartSnapping (486)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module SessionServices (484)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module ViewportSnapping (482)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module ViewportInteraction (480)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module ClothPainter (478)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (477)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module LogVisualizer (474)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module IntroTutorials (472)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (471)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (468)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (466)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (464)
+[2018.04.15-05.42.04:321][190]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (463)
+[2018.04.15-05.42.04:568][190]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (460)
+[2018.04.15-05.42.04:568][190]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (458)
+[2018.04.15-05.42.04:568][190]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (456)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module InputBindingEditor (454)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module MergeActors (452)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module SizeMap (450)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module TreeMap (448)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module ReferenceViewer (446)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (444)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module LocalizationService (443)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module HardwareTargeting (440)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (438)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module UndoHistory (436)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module XmlParser (434)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module Blutility (432)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (430)
+[2018.04.15-05.42.04:569][190]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (429)
+[2018.04.15-05.42.04:570][190]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (426)
+[2018.04.15-05.42.04:570][190]LogModuleManager: Shutting down and abandoning module SettingsEditor (424)
+[2018.04.15-05.42.04:570][190]LogModuleManager: Shutting down and abandoning module ProjectLauncher (422)
+[2018.04.15-05.42.04:570][190]LogModuleManager: Shutting down and abandoning module SessionFrontend (420)
+[2018.04.15-05.42.04:570][190]LogModuleManager: Shutting down and abandoning module ProfilerClient (418)
+[2018.04.15-05.42.04:570][190]LogModuleManager: Shutting down and abandoning module DeviceManager (416)
+[2018.04.15-05.42.04:570][190]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (415)
+[2018.04.15-05.42.04:612][190]LogModuleManager: Shutting down and abandoning module AutomationController (412)
+[2018.04.15-05.42.04:612][190]LogModuleManager: Shutting down and abandoning module AutomationWindow (410)
+[2018.04.15-05.42.04:612][190]LogModuleManager: Shutting down and abandoning module Layers (408)
+[2018.04.15-05.42.04:612][190]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (406)
+[2018.04.15-05.42.04:612][190]LogModuleManager: Shutting down and abandoning module DetailCustomizations (404)
+[2018.04.15-05.42.04:612][190]LogModuleManager: Shutting down and abandoning module PackagesDialog (402)
+[2018.04.15-05.42.04:613][190]LogModuleManager: Shutting down and abandoning module Persona (400)
+[2018.04.15-05.42.04:613][190]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (399)
+[2018.04.15-05.42.04:613][190]LogModuleManager: Shutting down and abandoning module AnimGraph (397)
+[2018.04.15-05.42.04:613][190]LogModuleManager: Shutting down and abandoning module Kismet (394)
+[2018.04.15-05.42.04:626][190]LogModuleManager: Shutting down and abandoning module ClassViewer (392)
+[2018.04.15-05.42.04:630][190]LogModuleManager: Shutting down and abandoning module Toolbox (390)
+[2018.04.15-05.42.04:630][190]LogModuleManager: Shutting down and abandoning module ModuleUI (388)
+[2018.04.15-05.42.04:630][190]LogModuleManager: Shutting down and abandoning module MovieSceneTools (386)
+[2018.04.15-05.42.04:630][190]LogModuleManager: Shutting down and abandoning module OutputLog (384)
+[2018.04.15-05.42.04:630][190]LogModuleManager: Shutting down and abandoning module GammaUI (382)
+[2018.04.15-05.42.04:630][190]LogModuleManager: Shutting down and abandoning module Documentation (380)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (378)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module MovieScene (376)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (374)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module LauncherPlatform (372)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module AnalyticsET (370)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module PortalServices (368)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module PortalRpc (366)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module MessagingRpc (364)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module AIModule (362)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module GameplayDebugger (361)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module AITestSuite (359)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module DesktopPlatform (356)
+[2018.04.15-05.42.04:632][190]LogModuleManager: Shutting down and abandoning module ProfilerService (354)
+[2018.04.15-05.42.04:703][190]LogModuleManager: Shutting down and abandoning module TaskGraph (352)
+[2018.04.15-05.42.04:703][190]LogModuleManager: Shutting down and abandoning module SteamVRController (350)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module SoundVisualizations (348)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (338)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.04.15-05.42.04:704][190]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.04.15-05.42.04:705][190]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.04.15-05.42.04:705][190]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.04.15-05.42.04:705][190]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.04.15-05.42.04:705][190]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.04.15-05.42.04:705][190]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.04.15-05.42.04:705][190]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.04.15-05.42.04:707][190]LogModuleManager: Shutting down and abandoning module FMODStudio (256)
+[2018.04.15-05.42.04:902][190]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.04.15-05.42.05:003][190]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.04.15-05.42.05:103][190]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.04.15-05.42.05:103][190]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.04.15-05.42.05:103][190]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.04.15-05.42.05:103][190]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.04.15-05.42.05:103][190]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.04.15-05.42.05:103][190]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.04.15-05.42.05:105][190]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.04.15-05.42.05:105][190]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.04.15-05.42.05:105][190]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.04.15-05.42.05:105][190]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.04.15-05.42.05:108][190]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.04.15-05.42.05:108][190]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.04.15-05.42.05:108][190]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.04.15-05.42.05:108][190]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.04.15-05.42.05:108][190]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.04.15-05.42.05:108][190]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.04.15-05.42.05:114][190]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.15-05.42.05:114][190]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.15-05.42.05:114][190]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.04.15-05.42.05:115][190]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.04.15-05.42.05:118][190]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.04.15-05.42.05:118][190]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.04.15-05.42.05:118][190]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.04.15-05.42.05:118][190]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.04.15-05.42.05:118][190]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.04.15-05.42.05:118][190]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.04.15-05.42.05:118][190]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.04.15-05.42.05:118][190]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.15-05.42.05:126][190]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.04.15-05.42.05:227][190]LogDerivedDataCache: Shutdown
+[2018.04.15-05.42.05:227][190]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.04.15-05.42.05:227][190]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.04.15-05.42.05:227][190]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.04.15-05.42.05:227][190]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.04.15-05.42.05:227][190]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.04.15-05.42.05:227][190]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.04.15-05.42.05:227][190]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.04.15-05.42.05:228][190]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.15-05.42.05:229][190]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.15-05.42.05:229][190]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.15-05.42.05:229][190]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6583ED5F-401C-1AB2-1BD8-A881CC497A71%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=031e712241a9e18c9fb16995b8f2e750%7C4e953a5bdab146b9aa578920616ee8c9%7C9e638b1f-35d8-48cb-9b1c-3cd62315533f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.15-05.42.05:239][190]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.15-05.42.05:241][190]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.15-05.42.05:241][190]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.15-05.42.05:241][190]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.15-05.42.05:241][190]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.15-05.42.05:241][190]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.15-05.42.05:241][190]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.15-05.42.05:241][190]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.15-05.42.05:246][190]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.15-05.42.05:250][190]LogExit: Exiting.
+[2018.04.15-05.42.05:272][190]Log file closed, 04/14/18 22:42:05
